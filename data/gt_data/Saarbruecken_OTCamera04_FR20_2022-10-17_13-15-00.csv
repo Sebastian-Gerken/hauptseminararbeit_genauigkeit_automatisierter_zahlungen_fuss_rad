@@ -689,7 +689,6 @@ EventID,SectionID,TrackID,X,Y,Frame,Class,Vidfilename,DateTime
 699,FG2,350,172,358,14676,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:27:13
 700,FG1,352,789,317,13901,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:26:35
 701,Querschnitt_Straße,352,700,397,14509,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:27:05
-702,FG1,351,775,311,13914,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:26:35
 703,Querschnitt_Straße,351,593,467,14559,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:27:07
 704,FG1,353,775,312,13920,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:26:36
 705,Querschnitt_Straße,353,595,467,14560,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00.mp4,2022-10-17 13:27:08
