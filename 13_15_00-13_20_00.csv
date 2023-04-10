@@ -1,7 +1,7 @@
-Class;gt_Haltelinie;eval_Haltelinie;delta_Haltelinie;sens_Haltelinie;gt_Querschnitt_Straße;eval_Querschnitt_Straße;delta_Querschnitt_Straße;sens_Querschnitt_Straße;gt_FG2;eval_FG2;delta_FG2;sens_FG2;gt_FG1;eval_FG1;delta_FG1;sens_FG1
-car;62;62;0;1.0;61;59;-2;0.9672131147540983;;;;;;;;
-person;30;23;-7;0.7666666666666667;33;40;7;1.2121212121212122;42.0;42.0;0.0;1.0;85.0;81.0;-4.0;0.9529411764705882
-motorcycle;3;2;-1;0.6666666666666666;2;3;1;1.5;1.0;1.0;0.0;1.0;;;;
-bicycle;2;4;2;2.0;4;1;-3;0.25;;;;;4.0;2.0;-2.0;0.5
-bus;1;1;0;1.0;1;1;0;1.0;;;;;;;;
-truck;1;5;4;5.0;1;3;2;3.0;;;;;;;;
+Class;0;1;r_pHaltelinie
+car;62;62;62
+person;30;23;23
+motorcycle;3;2;2
+bicycle;2;4;2
+bus;1;1;1
+truck;1;5;1
