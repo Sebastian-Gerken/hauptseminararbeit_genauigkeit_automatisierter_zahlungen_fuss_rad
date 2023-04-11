@@ -4,13 +4,14 @@ rm(list = ls())
 setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung")
 
 
-dirnames <- list.dirs("export_11" )
+dirnames <- list.dirs("Saarbruecken2022-10-17_13-15-00" )
+save_dir <- paste0(dirnames[1], "_processed")
 #fclasses <- c("person", "bicycle", "car", "truck", "bus")
-fclass = "bus"
+fclass = "person"
 
-#for (fclass in fclasses){
+for (fclass in fclasses){
 
-    save_path <- file.path("sens", fclass)
+    save_path <- file.path(save_dir, fclass)
     if (dir.exists(save_path)){
       unlink(save_path, recursive = T)
       dir.create(save_path, recursive = T)
@@ -68,7 +69,7 @@ ggsave(paste0(save_path,"/",gatename,"_S_", fclass, ".jpg"),device = "jpg" , wid
 #Genauigkeitsplot
 ggplot(data = df2, aes(t_int, G)) +
   geom_point() +
-  # geom_smooth(method = "lm", formula = y ~ log2(x)) +
+  #geom_smooth(method = "lm", formula = y ~ log2(x)) +
   theme_bw() +
   ggtitle(paste("Genauigkeit",gatename, fclass )) +
   scale_y_continuous(limits = c(0.0, 1)) +
@@ -83,7 +84,6 @@ write_csv2(df2, paste0(save_path,"/",gatename,"_", fclass, ".csv"))
 
 }
 
-
-#plot( df2$t_int , df2$S)
+}
 
     
