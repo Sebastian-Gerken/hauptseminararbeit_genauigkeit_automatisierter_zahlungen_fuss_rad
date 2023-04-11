@@ -49,3 +49,58 @@ filename = "Saarbruecken_1s_" + extract_time(groundtruth).strftime("%Y-%m-%d_%H-
 t_min = extract_time(groundtruth)
 t_max = t_min + pd.Timedelta(minutes=15)  # End time of the video
 interval = pd.timedelta_range(start="0 days", end="15 minutes", freq="1 s")  # Interval
+
+
+
+# Ground Truth Event Classification
+
+This R script processes ground truth event data, calculates the sensitivity and accuracy for various object classes, and generates plots for each gate and object class. It is designed to work with data collected during specific time intervals.
+
+## Prerequisites
+
+- R (version 3.6.0 or higher)
+- R packages: `tidyverse`, `lubridate`
+
+## Usage
+
+1. Set your working directory to the location where your data and the R script are stored.
+2. Make sure your data is in the following format:
+   - The main folder contains subfolders for each gate.
+   - Each gate subfolder contains CSV files with the following columns: `Class`, `gt`, `eval`, `rp`, `fp`, `fn`.
+3. Run the R script.
+
+The script will:
+
+- Read the data from the specified directory.
+- Loop through each object class (e.g., "person", "bicycle", "car", "truck", "bus").
+- Calculate sensitivity (S) and accuracy (G) for each object class and time interval.
+- Generate plots for sensitivity and accuracy for each gate and object class.
+- Save the plots as JPEG files in a "_processed" folder in the main directory.
+- Save the processed data as CSV files in the "_processed" folder.
+
+## Example Directory Structure
+main_folder/
+│
+├── gate_1/
+│ ├── time_interval_1.csv
+│ ├── time_interval_2.csv
+│ └── ...
+│
+├── gate_2/
+│ ├── time_interval_1.csv
+│ ├── time_interval_2.csv
+│ └── ...
+│
+└── ...
+
+
+## Notes
+
+- Make sure your CSV files use a semicolon (`;`) as a delimiter.
+- The script assumes that the time intervals in the CSV filenames are formatted as "HH-MM-SS".
+- If you need to modify the object classes, update the `fclasses` variable in the script.
+- The script will overwrite existing data in the "_processed" folder. Make sure to back up your data if necessary.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
