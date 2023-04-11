@@ -1,22 +1,43 @@
 library(tidyverse)
 library(chron)
+rm(list = ls())
 setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung")
 
-dir_path <- "export/FG1/"
-filenames <- list.files(path = dir_path)
 
-df_intervall
-strsplit(filenames[1], split = "_")
+dirnames <- list.dirs("export_11" )
+#fclasses <- c("person", "bicycle", "car", "truck", "bus")
+fclass = "bus"
+
+#for (fclass in fclasses){
+
+    save_path <- file.path("sens", fclass)
+    if (dir.exists(save_path)){
+      unlink(save_path, recursive = T)
+      dir.create(save_path, recursive = T)
+    } else {
+      dir.create(save_path, recursive = T)
+    }
+
+
+for (n in 2:length(dirnames)){ #geht alle gates durch
+
+gatename <- gsub( paste0(dirnames[1], "/"), "",  dirnames[n])
+
+filenames <- list.files(path = dirnames[n])
 
 for  (i in 1:length(filenames)){
-  key <- unlist(strsplit(filenames[i], split = "_"))
-  h <- as.numeric(gsub("i", "", key[2]))
-  m <- as.numeric(key[3])
-  s <- as.numeric(unlist(strsplit(key[4], split = "-"))[1])
-  interval <-  times(sprintf("%02d:%02d:%02d", h, m, s))
+  key <- unlist( strsplit(filenames[i], split = "-") )[2]
+  key <- unlist( strsplit(key, "_") )
+  h <- as.numeric( key[1] )
+  m <- as.numeric( key[2] )
+  s <- as.numeric( key[3] )
+  interval <-  times(sprintf("%02d:%02d:%02d", 0, m, s))
   
-  df <- read_delim( file.path(dir_path, filenames[i]) )
-  df <- df[df$Class == "person",]
+  df <- read_delim( file.path(dirnames[n], filenames[i]) )
+  df <- df[df$Class == fclass,]
+  if (nrow(df)== 0){
+    next
+  }
   df <- mutate(df, S = rp / (rp + fn))
   df <- mutate(df, G = rp / (rp + fp))
   df <- cbind(df, t_int = interval)
@@ -27,5 +48,42 @@ for  (i in 1:length(filenames)){
   df2 <- rbind(df2, df)
   
 }
+if (!exists("df2")){
+  next
+}
 
-plot(x = 1:nrow(df2), df2$S)
+#Sensitivitätsplot
+ggplot(data = df2, aes(t_int, S)) +
+  geom_point() +
+ # geom_smooth(method = "lm", formula = y ~ log2(x)) +
+  theme_bw() +
+  ggtitle(paste("Sensitivität",gatename, fclass )) +
+  scale_y_continuous(limits = c(0.0, 1)) +
+  scale_x_chron(format = "%M%:%S") +
+  xlab("Zeitinterval [MM:SS]") + 
+  ylab("Sensitivität S")
+
+ggsave(paste0(save_path,"/",gatename,"_S_", fclass, ".jpg"),device = "jpg" , width = 4, height = 4)
+
+#Genauigkeitsplot
+ggplot(data = df2, aes(t_int, G)) +
+  geom_point() +
+  # geom_smooth(method = "lm", formula = y ~ log2(x)) +
+  theme_bw() +
+  ggtitle(paste("Genauigkeit",gatename, fclass )) +
+  scale_y_continuous(limits = c(0.0, 1)) +
+  scale_x_chron(format = "%M%:%S") +
+  xlab("Zeitinterval [MM:SS]") + 
+  ylab("Sensitivität S")
+
+ggsave(paste0(save_path,"/",gatename, "_G_",fclass, ".jpg"),device = "jpg" , width = 4, height = 4)
+
+write_csv2(df2, paste0(save_path,"/",gatename,"_", fclass, ".csv"))
+
+
+}
+
+
+#plot( df2$t_int , df2$S)
+
+    

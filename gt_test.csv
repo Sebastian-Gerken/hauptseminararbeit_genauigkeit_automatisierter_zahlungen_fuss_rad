@@ -1,8 +1,0 @@
-Class;gt_Haltelinie;eval_Haltelinie;gt_Querschnitt_Straße;eval_Querschnitt_Straße;gt_FG2;eval_FG2;gt_FG1;eval_FG1
-car;188.0;190;190.0;184;;;;
-person;58.0;47;105.0;133;105.0;110.0;214.0;209.0
-bicycle;9.0;9;10.0;4;2.0;2.0;8.0;5.0
-bus;9.0;13;9.0;11;;;;
-motorcycle;5.0;5;4.0;4;2.0;4.0;1.0;
-truck;5.0;13;5.0;10;;;;
-unclear;;1;;5;;4.0;;3.0
