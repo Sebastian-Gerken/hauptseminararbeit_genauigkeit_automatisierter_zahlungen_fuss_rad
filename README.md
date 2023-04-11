@@ -1,6 +1,7 @@
-# Traffic Data Analysis
+# Trafficcount-cv-gt-evaluation
 
-This script processes traffic data from multiple sources and formats, and outputs a series of binary classification tests for each interval.
+
+This script processes trafficevent data from OpenTrafficCam OTVision processed with OTAnalytic and Groundtruth data, and outputs a series of binary classification tests for each interval.
 
 ## Dependencies
 
