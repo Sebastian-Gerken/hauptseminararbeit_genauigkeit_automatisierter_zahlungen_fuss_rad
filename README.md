@@ -79,19 +79,21 @@ The script will:
 - Save the processed data as CSV files in the "_processed" folder.
 
 ## Example Directory Structure
+```plaintext
 main_folder/
 │
 ├── gate_1/
-│ ├── time_interval_1.csv
-│ ├── time_interval_2.csv
-│ └── ...
+│   ├── time_interval_1.csv
+│   ├── time_interval_2.csv
+│   └── ...
 │
 ├── gate_2/
-│ ├── time_interval_1.csv
-│ ├── time_interval_2.csv
-│ └── ...
+│   ├── time_interval_1.csv
+│   ├── time_interval_2.csv
+│   └── ...
 │
 └── ...
+```
 
 
 ## Notes
