@@ -49,7 +49,7 @@ filename = "Saarbruecken_1s_" + extract_time(groundtruth).strftime("%Y-%m-%d_%H-
 t_min = extract_time(groundtruth)
 t_max = t_min + pd.Timedelta(minutes=15)  # End time of the video
 interval = pd.timedelta_range(start="0 days", end="15 minutes", freq="1 s")  # Interval
-
+```
 
 
 # Ground Truth Event Classification
