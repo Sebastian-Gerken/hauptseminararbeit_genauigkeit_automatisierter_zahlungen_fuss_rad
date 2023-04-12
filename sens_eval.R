@@ -3,7 +3,9 @@ library(lubridate)
 rm(list = ls())
 setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung")
 
-dirnames <- list.dirs("Saarbruecken2022-10-17_13-15-00")
+localdirs <- dir()
+print(localdirs)
+dirnames <- list.dirs( localdirs18[as.numeric(readline("Choose dirctorynumber: "))] )
 save_dir <- paste0(dirnames[1], "_processed")
 fclasses <- c("person", "bicycle", "car", "truck", "bus")
 
