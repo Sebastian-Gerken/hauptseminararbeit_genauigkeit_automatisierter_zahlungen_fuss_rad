@@ -20,14 +20,14 @@ for (fclass in fclasses){
   }
   
   for (n in 2:length(dirnames)){
-    
+    #gateloop
     gatename <- gsub(paste0(dirnames[1], "/"), "", dirnames[n])
     filenames <- list.files(path = dirnames[n])
     
     df2 <- NULL # Initialize df2
     
     for  (i in 1:length(filenames)){
-      
+      #read all csv files into aggregated df
       key <- unlist(strsplit(filenames[i], split = "-"))[2]
       key <- unlist(strsplit(key, "_"))
       h <- as.numeric(key[1])
@@ -42,6 +42,7 @@ for (fclass in fclasses){
       }
       df <- mutate(df, S = rp / (rp + fn))
       df <- mutate(df, G = rp / (rp + fp))
+      df <- mutate(df, F1 = 2 * G * S / (G + S) )
       df <- cbind(df, t_int = interval)
       if (is.null(df2)){
         df2 <- df
