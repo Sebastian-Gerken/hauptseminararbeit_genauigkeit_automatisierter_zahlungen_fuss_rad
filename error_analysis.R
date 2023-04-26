@@ -20,8 +20,15 @@ s_i <- function(T, t){
 s <- mapply(s_i, T, t)
 
 
+ggplot() +
+  geom_line(aes(x = t,y = s)) +
+  #geom_point(aes(x = t,  y= s)) +
+  xlab("Intervalllänge t in s") +
+  ylab("Anzahl an Schnittpunkten n") +
+  theme_classic()
+ggsave("schnittpunkte.pdf", device = "pdf")
 
-plot(x = t, y = s,   xlab = "Intervall in s", ylab = "Anzahl an Schnittpunkt")
+plot(x = t, y = s,   xlab = "Intervalllänge in s", ylab = "Anzahl an Schnittpunkten")
 
 #read files
 df <- read_delim("Saarbruecken_gt2gt_eval2022-10-17_13-15-00_processed/person/FG1_person.csv", 
