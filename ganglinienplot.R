@@ -1,7 +1,6 @@
 library(tidyverse)
-setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung")
-df_gt <- read_csv("data/gt_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_v5.csv")
-df_eval <- read_csv("data/otv_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_events.csv")
+df_gt <- read_csv("./data/gt_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_v5.csv")
+df_eval <- read_csv("./data/otv_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_events.csv")
 
 df_gt <- df_gt %>% mutate(across(c("SectionID", "Class"), as.factor))
 df_eval <- df_eval %>% mutate(across(c("SectionID", "Class"), as.factor))

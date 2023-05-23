@@ -1,6 +1,6 @@
 library(tidyverse)
 library(gridExtra)
-setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung/countdata_5min")
+setwd("./countdata_5min")
 rm(list = ls())
 dirlist <- list.dirs()
 dirlist <- subset(dirlist, grepl("Saarbruecken", dirlist))
@@ -10,7 +10,6 @@ dirlist3 <- subset(dirlist, grepl("gtval", dirlist))
 for (dir in dirlist2){
 
   filelist <- list.files(path = dir, pattern = ".csv")
-  
   
   for (file in filelist){
     name <- str_split_1(file, pattern = "-")
@@ -33,17 +32,12 @@ for (dir in dirlist2){
       "Differenz_relativ" = 1 - abs(sum(df2$gt) / sum(df1$gt))
     )
     
-    
-    
     if (exists("df_summary")){
       df_summary <- rbind(df_summary, df_difference)
     } else {
       df_summary <-  df_difference
     }
-
-    
   }
-
 }
 
 df_summary$Differenz_relativ <- round(df_summary$Differenz_relativ, 2)
