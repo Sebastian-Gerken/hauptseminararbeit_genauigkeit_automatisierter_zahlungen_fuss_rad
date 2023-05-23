@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 rm(list = ls())
-setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung")
+setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung/binärerklassifikator")
 
 localdirs <- dir()
 print(localdirs)

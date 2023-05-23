@@ -1,757 +1,756 @@
 EventID,SectionID,TrackID,X,Y,Frame,Class,Vidfilename,DateTime
-1,Haltelinie,1,272,284,87,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:04
-2,Querschnitt_Straße,1,644,434,130,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:06
-3,Haltelinie,2,271,292,173,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:08
-4,Querschnitt_Straße,2,632,445,206,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:10
-5,FG2,3,283,464,386,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:19
 6,FG1,3,600,240,610,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:30
-7,Querschnitt_Straße,5,737,369,554,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:27
 8,FG1,5,760,306,632,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:31
-9,Querschnitt_Straße,4,590,471,493,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:24
 10,FG1,4,754,303,683,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:34
-11,FG2,7,371,554,482,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:24
 12,FG1,7,762,307,1040,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:52
-13,FG2,6,293,479,602,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:30
 14,FG1,6,703,279,825,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:41
-15,FG2,8,209,391,470,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:23
 16,FG1,8,731,290,708,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:35
-17,FG2,9,226,410,476,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:23
 18,FG1,9,765,306,736,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:36
 19,FG1,11,793,319,612,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:30
-20,Querschnitt_Straße,11,788,335,638,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:31
 21,FG1,10,783,313,612,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:30
-22,Querschnitt_Straße,10,773,346,659,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:32
 23,FG1,12,625,248,625,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:31
-24,FG2,12,234,421,805,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:40
 25,FG1,13,546,217,639,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:31
-26,Haltelinie,13,512,211,661,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:33
-27,Haltelinie,14,371,258,819,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:40
-28,Querschnitt_Straße,14,731,380,873,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:43
-29,Haltelinie,15,287,286,839,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:41
-30,Querschnitt_Straße,15,650,434,890,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:44
-31,Haltelinie,16,192,319,870,Fahrrad mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:43
-32,Querschnitt_Straße,16,471,552,911,Fahrrad mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
-33,Haltelinie,17,370,259,880,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:44
-34,Querschnitt_Straße,17,732,375,915,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
-35,Haltelinie,18,274,292,908,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
-36,Querschnitt_Straße,18,635,447,944,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:47
-37,Haltelinie,19,374,254,935,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:46
-38,Querschnitt_Straße,19,741,373,964,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:48
-39,Haltelinie,20,259,296,970,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:48
-40,Querschnitt_Straße,20,605,466,999,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:49
-41,Haltelinie,21,372,257,980,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:49
-42,Querschnitt_Straße,21,737,378,1010,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:50
-43,Haltelinie,22,275,293,1009,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:50
-44,Querschnitt_Straße,22,627,450,1038,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:51
-45,Haltelinie,23,372,256,1022,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:51
-46,Querschnitt_Straße,23,742,377,1060,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:53
-47,Haltelinie,24,275,291,1052,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:52
-48,Querschnitt_Straße,24,636,443,1078,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:53
-49,Haltelinie,25,263,294,1092,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:54
-50,Querschnitt_Straße,25,620,468,1117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:55
-51,Haltelinie,26,378,255,1103,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:55
-52,Querschnitt_Straße,26,758,363,1148,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:57
-53,Haltelinie,27,267,293,1154,Pkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:57
-54,Querschnitt_Straße,27,619,461,1178,Pkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:58
-55,Haltelinie,28,292,285,1266,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:03
-56,Querschnitt_Straße,28,679,416,1278,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:03
 57,FG1,30,589,235,846,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:42
-58,FG2,30,235,420,1428,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:11
 61,FG1,31,608,242,847,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:42
-62,FG2,31,255,437,1436,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:11
-63,Querschnitt_Straße,32,757,359,1478,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:13
-64,Haltelinie,32,509,214,1648,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:22
-65,Haltelinie,33,512,211,1238,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:01
 66,FG1,33,537,213,1256,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:02
-67,Querschnitt_Straße,34,724,382,1490,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:14
 68,FG1,34,790,319,1536,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:16
-69,Querschnitt_Straße,35,581,475,1510,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:15
 70,FG1,35,737,296,1724,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:26
-71,FG2,36,281,468,1693,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:24
 72,FG1,36,695,277,1894,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:34
-73,FG2,37,237,421,1711,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:25
 74,FG1,37,675,270,1906,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:35
-75,FG2,38,362,540,1723,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:26
 76,FG1,38,735,293,1912,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:35
 77,FG1,40,543,215,1772,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:28
-78,Haltelinie,40,512,212,1788,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:29
 79,FG1,39,539,215,1768,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:28
-80,Haltelinie,39,512,209,1785,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:29
-81,Haltelinie,41,375,255,1907,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:35
-82,Querschnitt_Straße,41,737,378,1962,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:38
-83,Haltelinie,42,264,294,1931,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:36
-84,Querschnitt_Straße,42,620,454,1949,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:37
-85,Haltelinie,43,371,258,1949,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:37
-86,Querschnitt_Straße,43,734,374,1995,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:39
-87,Haltelinie,44,261,298,2011,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
-88,Querschnitt_Straße,44,621,464,2026,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:41
-89,Haltelinie,45,368,259,2016,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
-90,Querschnitt_Straße,45,738,379,2059,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:42
 91,FG1,46,792,318,1916,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:35
-92,Querschnitt_Straße,46,757,358,2297,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:54
 93,FG1,47,791,319,1968,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:38
-94,Querschnitt_Straße,47,767,351,2284,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:54
 95,FG1,48,628,248,2096,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:44
-96,FG2,48,253,435,2455,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:02
 97,FG1,49,608,244,2125,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:46
-98,FG2,49,231,418,2471,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:03
 99,FG1,50,603,241,2181,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:49
-100,FG2,50,232,425,2523,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:06
-101,Haltelinie,51,491,216,2245,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
-102,FG2,51,227,415,2430,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:01
-103,Haltelinie,52,478,222,2253,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
-104,FG2,52,264,449,2432,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:01
-105,Haltelinie,53,503,209,2267,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:53
 106,FG1,53,566,226,2324,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:56
-107,Haltelinie,54,506,209,2269,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:53
 108,FG1,54,558,219,2309,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:55
-109,FG2,55,316,504,2257,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
-110,Haltelinie,55,476,223,2372,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:58
-111,FG2,56,208,387,2314,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:55
 112,FG1,56,719,290,2563,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:08
-113,FG2,57,278,462,2338,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:56
 114,FG1,57,747,301,2581,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:09
 115,FG1,59,797,320,2467,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:03
-116,Querschnitt_Straße,59,771,347,3215,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
-117,Querschnitt_Straße,60,620,450,3638,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:01
-118,FG2,60,311,497,3697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:04
 119,FG1,58,782,315,2467,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:03
-120,FG2,58,256,444,3715,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:05
-121,FG2,61,204,386,2541,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:07
 122,FG1,61,642,257,3862,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:13
-123,FG2,62,226,409,3008,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:30
 124,FG1,62,631,252,3808,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:10
 125,FG1,63,669,269,2655,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:12
-126,Querschnitt_Straße,63,665,419,3102,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:35
-127,Haltelinie,65,270,292,2630,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:11
-128,Querschnitt_Straße,65,634,461,2671,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:13
-129,Haltelinie,64,358,261,2633,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:11
-130,Querschnitt_Straße,64,721,383,2700,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:15
-131,Haltelinie,66,365,257,2698,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:14
-132,Querschnitt_Straße,66,724,380,2739,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
-133,Haltelinie,68,268,293,2731,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
-134,Querschnitt_Straße,68,633,455,2758,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:17
-135,Haltelinie,67,371,256,2732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
-136,Querschnitt_Straße,67,740,377,2772,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:18
-137,Haltelinie,69,277,292,2807,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:20
-138,Querschnitt_Straße,69,639,455,2834,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:21
-139,Haltelinie,70,372,258,2818,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:20
-140,Querschnitt_Straße,70,738,381,2851,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
-141,Haltelinie,71,276,291,2858,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
-142,Querschnitt_Straße,71,632,452,2884,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:24
-143,Haltelinie,72,282,285,2911,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:25
-144,Querschnitt_Straße,72,631,450,2937,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:26
-145,Haltelinie,73,389,254,3114,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:35
-146,Querschnitt_Straße,73,760,364,3155,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:37
-147,Haltelinie,74,363,261,3172,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:38
-148,Querschnitt_Straße,74,726,382,3201,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
-149,Haltelinie,75,266,294,3186,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:39
-150,Querschnitt_Straße,75,619,459,3203,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
-151,Haltelinie,76,365,259,3208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
-152,Querschnitt_Straße,76,723,384,3236,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:41
-153,Haltelinie,78,273,295,3260,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:43
-154,Querschnitt_Straße,78,626,440,3277,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:43
-155,Haltelinie,77,359,263,3259,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:42
-156,Querschnitt_Straße,77,696,394,3284,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:44
-157,Haltelinie,79,275,291,3345,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:47
-158,Querschnitt_Straße,79,630,456,3365,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:48
-159,Haltelinie,80,502,215,3460,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:53
 160,FG1,80,572,228,3520,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:56
-161,Haltelinie,81,510,209,3448,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:52
 162,FG1,81,553,215,3515,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:55
-163,Haltelinie,82,464,227,3303,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:45
-164,FG2,82,383,572,3631,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:01
 165,FG1,83,657,266,3172,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:38
-166,Querschnitt_Straße,83,692,401,3579,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:58
-167,Haltelinie,84,482,222,2858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
-168,FG2,84,400,588,3722,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:06
 169,FG1,86,791,320,3610,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:00
-170,Querschnitt_Straße,86,770,349,3669,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:03
 171,FG1,85,769,309,3613,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:00
-172,Querschnitt_Straße,85,738,373,3697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:04
-173,Querschnitt_Straße,87,791,336,3733,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:06
 174,FG1,87,793,318,3762,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:08
-175,Haltelinie,88,371,256,3922,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:16
-176,Querschnitt_Straße,88,736,376,3968,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:18
-177,Haltelinie,89,288,287,3952,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:17
-178,Querschnitt_Straße,89,643,445,4011,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:20
-179,Haltelinie,90,279,287,4016,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:20
-180,Querschnitt_Straße,90,640,439,4053,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:22
-181,Haltelinie,92,370,257,4076,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:23
-182,Querschnitt_Straße,92,731,380,4095,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:24
-183,Haltelinie,91,287,285,4070,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:23
-184,Querschnitt_Straße,91,639,450,4103,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:25
-185,Haltelinie,93,360,259,4145,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:27
-186,Querschnitt_Straße,93,722,385,4164,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:28
 187,FG1,95,608,242,4095,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:24
-188,FG2,95,285,473,4464,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:43
 189,FG1,94,600,239,4077,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:23
-190,FG2,94,257,454,4469,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:43
-191,Haltelinie,96,189,322,4343,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:37
-192,Querschnitt_Straße,96,443,576,4381,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:39
-193,Haltelinie,97,365,259,4673,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:53
-194,Querschnitt_Straße,97,724,385,4717,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:55
-195,Haltelinie,98,283,290,4688,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:54
-196,Querschnitt_Straße,98,626,456,4732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:56
-197,Haltelinie,99,366,260,4736,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:56
-198,Querschnitt_Straße,99,725,383,4772,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:58
-201,Haltelinie,102,278,290,4741,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:57
-202,Querschnitt_Straße,102,631,448,4780,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:59
-203,Haltelinie,101,370,260,4776,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:58
-204,Querschnitt_Straße,101,729,383,4808,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:00
-205,Haltelinie,103,272,289,4804,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:00
-206,Querschnitt_Straße,103,638,444,4837,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:01
-207,Haltelinie,104,374,258,4826,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:01
-208,Querschnitt_Straße,104,741,377,4855,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:02
-209,Haltelinie,105,350,261,4876,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:03
-210,Querschnitt_Straße,105,710,393,4899,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:04
 211,FG1,106,714,285,4798,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:59
-212,Querschnitt_Straße,106,644,438,5085,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:14
-213,Querschnitt_Straße,107,788,337,5197,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:19
 214,FG1,107,791,317,5228,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:21
 215,FG1,108,762,305,5211,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:20
-216,Querschnitt_Straße,108,761,358,5263,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:23
 217,FG1,109,776,313,5291,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:24
-218,Querschnitt_Straße,109,777,348,5332,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:26
-219,Haltelinie,110,284,287,5470,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:33
-220,Querschnitt_Straße,110,644,437,5527,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:36
-221,Querschnitt_Straße,111,772,349,6052,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:02
 222,FG1,111,783,316,6107,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:05
-223,Haltelinie,112,262,295,6250,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:12
-224,Querschnitt_Straße,112,608,463,6291,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:14
-225,Haltelinie,113,381,255,6265,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:13
-226,Querschnitt_Straße,113,731,380,6316,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
-227,Haltelinie,114,273,291,6302,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
-228,Querschnitt_Straße,114,615,452,6331,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:16
-229,Haltelinie,115,372,258,6317,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
-230,Querschnitt_Straße,115,734,381,6358,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:17
-231,Haltelinie,117,374,257,6358,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:17
-232,Querschnitt_Straße,117,727,379,6397,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:19
-233,Haltelinie,116,270,294,6375,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:18
-234,Querschnitt_Straße,116,646,447,6410,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:20
-235,Haltelinie,118,386,256,6413,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:20
-236,Querschnitt_Straße,118,729,379,6460,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
-237,Haltelinie,119,260,294,6446,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:22
-238,Querschnitt_Straße,119,608,472,6478,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
-239,Haltelinie,120,347,265,6475,Lkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
-240,Querschnitt_Straße,120,661,423,6510,Lkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:25
-241,Haltelinie,121,270,291,6517,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:25
-242,Querschnitt_Straße,121,636,452,6560,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:28
-243,Haltelinie,122,369,258,6545,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:27
-244,Querschnitt_Straße,122,732,382,6585,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:29
-245,Haltelinie,123,271,292,6578,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:28
-246,Querschnitt_Straße,123,641,450,6609,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:30
-247,Haltelinie,124,371,256,6594,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:29
-248,Querschnitt_Straße,124,731,382,6631,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:31
-249,Haltelinie,125,358,260,6636,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:31
-250,Querschnitt_Straße,125,725,386,6674,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:33
-251,Haltelinie,126,372,260,6684,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:34
-252,Querschnitt_Straße,126,732,383,6715,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:35
 253,FG1,128,608,241,6481,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:24
-254,Querschnitt_Straße,128,461,557,7035,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:51
 255,FG1,127,594,235,6461,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
-256,FG2,127,382,564,7062,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:53
-257,Querschnitt_Straße,129,578,480,6767,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:38
 258,FG1,129,755,299,6953,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:47
-259,Querschnitt_Straße,130,692,402,6823,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:41
 260,FG1,130,775,312,6960,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:48
-261,Querschnitt_Straße,131,753,358,6957,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:47
 262,FG1,131,772,307,7026,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:51
-263,Haltelinie,132,279,288,7311,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:05
-264,Querschnitt_Straße,132,651,437,7363,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:08
-265,Haltelinie,133,276,290,7375,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:08
-266,Querschnitt_Straße,133,650,445,7413,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:10
 267,FG1,134,647,261,7282,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:04
-268,Querschnitt_Straße,134,654,429,7748,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:27
 269,FG1,135,796,317,7239,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:01
-270,Querschnitt_Straße,135,769,350,7673,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:23
-271,FG2,136,248,437,7691,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:24
 272,FG1,136,759,307,7940,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:37
-273,FG2,137,229,414,7692,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:24
 274,FG1,137,738,296,7931,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:36
-275,FG2,140,221,408,7713,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
 276,FG1,140,629,248,7931,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:36
-277,FG2,138,194,375,7700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
 278,FG1,138,612,242,7938,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:36
-279,FG2,139,201,389,7712,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
 280,FG1,139,595,236,7936,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:36
 281,FG1,142,544,215,7945,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:37
-282,Haltelinie,142,512,209,7967,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:38
 283,FG1,141,548,216,7938,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:36
-284,Haltelinie,141,511,211,7963,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:38
-285,FG2,145,286,466,7868,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:33
 286,FG1,145,753,300,8084,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:44
-287,FG2,143,247,431,7856,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
 288,FG1,143,732,293,8074,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
-289,FG2,144,224,409,7858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
 290,FG1,144,714,285,8066,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
-291,FG2,146,229,413,7886,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
 292,FG1,146,607,241,8049,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:42
-293,Haltelinie,147,366,259,8035,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:41
-294,Querschnitt_Straße,147,724,385,8071,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
-295,Haltelinie,148,183,325,8041,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:42
-296,Querschnitt_Straße,148,477,550,8073,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
-297,Haltelinie,149,364,261,8073,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
-298,Querschnitt_Straße,149,725,382,8104,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
-299,Haltelinie,150,180,325,8106,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
-300,Querschnitt_Straße,150,467,555,8134,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:46
-301,Haltelinie,151,282,290,8098,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:44
-302,Querschnitt_Straße,151,625,442,8150,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:47
-303,Haltelinie,152,381,255,8117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
-304,Querschnitt_Straße,152,709,364,8143,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:47
-305,Haltelinie,153,367,259,8208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:50
-306,Querschnitt_Straße,153,736,383,8239,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
-307,Haltelinie,154,285,287,8243,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:52
-308,Querschnitt_Straße,154,646,442,8271,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:53
-309,Haltelinie,155,194,322,8248,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:52
-310,Querschnitt_Straße,155,494,542,8282,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
-311,Haltelinie,156,178,328,8229,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
-312,Querschnitt_Straße,156,412,591,8280,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
-315,Haltelinie,158,362,259,8270,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:53
-316,Querschnitt_Straße,158,726,388,8301,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:55
-317,Haltelinie,159,273,290,8291,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
-318,Querschnitt_Straße,159,631,445,8316,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:55
-319,Haltelinie,160,291,286,8348,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
-320,Querschnitt_Straße,160,660,433,8373,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:58
-321,Haltelinie,161,291,287,8348,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
-322,Querschnitt_Straße,161,656,429,8373,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:58
-323,Haltelinie,162,377,255,8390,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:59
-324,Querschnitt_Straße,162,736,378,8414,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:00
-325,Haltelinie,163,276,292,8440,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:02
-326,Querschnitt_Straße,163,640,453,8463,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:03
-327,Haltelinie,164,283,287,8484,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:04
-328,Querschnitt_Straße,164,643,442,8506,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
 329,FG1,166,603,241,8226,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
-330,FG2,166,345,530,8687,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
 331,FG1,165,587,232,8222,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
-332,FG2,165,322,510,8683,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
 333,FG1,167,583,229,8448,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:02
-334,Haltelinie,167,499,214,8499,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:04
 335,FG1,168,577,230,8474,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:03
-336,Haltelinie,168,507,211,8515,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
 337,FG1,169,572,227,8475,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:03
-338,Haltelinie,169,508,208,8517,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
 339,FG1,170,568,225,8485,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:04
-340,Haltelinie,170,510,211,8521,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:06
-341,Haltelinie,172,500,215,8348,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
-342,Querschnitt_Straße,172,740,370,8690,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
-343,Haltelinie,173,487,220,8344,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
-344,Querschnitt_Straße,173,720,385,8708,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:15
-345,Haltelinie,171,507,215,8335,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:56
-346,Querschnitt_Straße,171,749,362,8668,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
-347,FG2,174,275,461,8607,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:10
 348,FG1,174,594,237,8801,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:20
-349,Querschnitt_Straße,175,496,539,8666,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
 350,FG1,175,748,296,8861,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:23
-351,FG2,176,184,371,8609,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:10
-352,Haltelinie,176,453,230,8793,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:19
-353,FG2,177,212,398,8625,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:11
-354,Haltelinie,177,482,221,8807,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:20
-355,FG2,179,226,407,8669,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
 356,FG1,179,520,203,8919,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:25
-357,Querschnitt_Straße,178,694,403,8650,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:12
 358,FG1,178,608,242,8748,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:17
-359,Haltelinie,181,375,255,9108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:35
-360,Querschnitt_Straße,181,737,374,9165,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:38
-361,Haltelinie,180,271,292,9090,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:34
-362,Querschnitt_Straße,180,629,452,9161,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:38
-363,Haltelinie,182,373,256,9144,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:37
-364,Querschnitt_Straße,182,735,380,9189,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:39
-365,Haltelinie,183,272,293,9157,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:37
-366,Querschnitt_Straße,183,629,456,9208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:40
-367,Haltelinie,184,257,294,9220,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:41
-368,Querschnitt_Straße,184,626,460,9257,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:42
-369,Haltelinie,185,270,291,9286,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:44
-370,Querschnitt_Straße,185,627,452,9317,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:45
-371,Haltelinie,186,365,262,9334,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:46
-372,Querschnitt_Straße,186,737,380,9364,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:48
-373,FG2,187,322,508,9390,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:49
 374,FG1,187,679,272,9516,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:55
-375,FG2,188,248,433,9406,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:50
 376,FG1,188,799,322,9651,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:02
-377,Querschnitt_Straße,189,784,337,9648,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:02
 378,FG1,189,652,261,9725,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:06
-379,Haltelinie,189,511,209,9813,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:10
 380,FG1,190,758,305,9732,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:06
-381,Querschnitt_Straße,190,726,381,10641,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:52
 382,FG1,191,711,286,10300,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:35
-383,Querschnitt_Straße,191,714,386,10606,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:50
-384,Haltelinie,193,373,256,9841,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:12
-385,Querschnitt_Straße,193,734,381,9895,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:14
-386,Haltelinie,192,267,293,9843,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:12
-387,Querschnitt_Straße,192,661,432,9906,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:15
-388,Haltelinie,194,365,261,9907,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:15
-389,Querschnitt_Straße,194,721,388,9962,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:18
-390,Haltelinie,195,287,286,9938,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:16
-391,Querschnitt_Straße,195,661,430,9992,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:19
-392,Haltelinie,196,360,264,9973,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:18
-393,Querschnitt_Straße,196,717,391,10025,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:21
-394,Haltelinie,197,268,294,9985,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:19
-395,Querschnitt_Straße,197,632,451,10043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
-396,Haltelinie,198,364,260,10009,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:20
-397,Querschnitt_Straße,198,737,379,10059,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
-398,Haltelinie,199,269,293,10043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
-399,Querschnitt_Straße,199,631,452,10099,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:24
-400,Haltelinie,200,381,255,10073,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:23
-401,Querschnitt_Straße,200,742,372,10115,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:25
-402,Haltelinie,201,275,291,10108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:25
-403,Querschnitt_Straße,201,655,452,10146,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:27
-404,Haltelinie,202,370,257,10142,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:27
-405,Querschnitt_Straße,202,733,381,10183,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:29
-406,Haltelinie,203,368,257,10195,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:29
-407,Querschnitt_Straße,203,737,375,10239,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:31
-408,Haltelinie,204,273,292,10202,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:30
-409,Querschnitt_Straße,204,641,456,10235,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:31
-410,Haltelinie,205,366,258,10306,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:35
-411,Querschnitt_Straße,205,736,377,10340,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:37
-412,Haltelinie,206,262,297,10316,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:35
-413,Querschnitt_Straße,206,625,462,10352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:37
-414,Haltelinie,207,269,293,10395,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:39
-415,Querschnitt_Straße,207,612,462,10425,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:41
-416,FG2,208,246,434,10637,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:51
 417,FG1,208,521,202,10959,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:07
-418,Haltelinie,209,511,210,10717,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:55
 419,FG1,209,557,220,10754,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:57
 420,FG1,210,784,313,10659,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:52
-421,Querschnitt_Straße,210,779,344,10704,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:55
-422,Haltelinie,212,375,258,10936,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:06
-423,Querschnitt_Straße,212,738,377,10999,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:09
-424,Haltelinie,211,268,291,10946,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:07
-425,Querschnitt_Straße,211,637,456,10992,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:09
-426,Haltelinie,213,280,289,11001,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:10
-427,Querschnitt_Straße,213,639,443,11034,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:11
-428,Haltelinie,214,369,258,11004,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:10
-429,Querschnitt_Straße,214,733,380,11044,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:12
-430,Haltelinie,215,270,294,11050,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:12
-431,Querschnitt_Straße,215,640,444,11078,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:13
-432,Haltelinie,216,376,257,11153,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:17
-433,Querschnitt_Straße,216,747,376,11182,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:19
 434,FG1,218,612,241,11250,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:22
-435,FG2,218,300,486,11485,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:34
 436,FG1,217,597,240,11240,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:22
-437,FG2,217,267,451,11479,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:33
 438,FG1,219,754,303,11304,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:25
-439,Querschnitt_Straße,219,590,471,11396,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:29
-440,FG2,220,245,429,11299,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:24
 441,FG1,220,744,299,11563,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:38
-442,FG2,221,298,481,11330,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
 443,FG1,221,739,297,11493,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:34
-444,FG2,223,226,410,11326,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
 445,FG1,223,718,286,11581,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:39
-446,FG2,222,245,427,11332,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
 447,FG1,222,734,294,11584,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:39
-448,Querschnitt_Straße,224,780,345,11606,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:40
 449,FG1,224,790,318,11689,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:44
 450,FG1,225,746,299,11659,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:42
-451,Querschnitt_Straße,225,706,390,12201,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:10
 452,FG1,226,779,312,11808,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
-453,Querschnitt_Straße,226,750,365,12282,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
-454,FG2,226,368,559,12432,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:21
-455,Haltelinie,227,369,258,11702,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:45
-456,Querschnitt_Straße,227,726,386,11739,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:46
-457,Haltelinie,228,277,291,11713,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:45
-458,Querschnitt_Straße,228,640,452,11757,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:47
-459,Haltelinie,229,356,260,11754,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:47
-460,Querschnitt_Straße,229,726,384,11786,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:49
-461,Haltelinie,230,268,294,11768,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:48
-462,Querschnitt_Straße,230,624,458,11802,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
-463,Haltelinie,231,376,257,11801,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
-464,Querschnitt_Straße,231,731,377,11830,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:51
-465,Haltelinie,232,269,294,11817,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
-466,Querschnitt_Straße,232,632,456,11848,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:52
-467,Haltelinie,233,272,291,11859,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:52
-468,Querschnitt_Straße,233,631,448,11893,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:54
-469,Haltelinie,234,378,256,11876,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:53
-470,Querschnitt_Straße,234,745,369,11911,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:55
-471,Haltelinie,235,375,256,11918,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:55
-472,Querschnitt_Straße,235,741,380,11953,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:57
-473,Haltelinie,236,272,289,11948,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:57
-474,Querschnitt_Straße,236,637,449,11981,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
-475,Haltelinie,237,374,257,11982,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
-476,Querschnitt_Straße,237,749,375,12018,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:00
-477,Haltelinie,238,265,295,11997,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
-478,Querschnitt_Straße,238,619,456,12026,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:01
-479,Haltelinie,239,363,260,12043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:02
-480,Querschnitt_Straße,239,725,381,12075,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:03
-481,FG2,240,279,465,12119,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:05
 482,FG1,240,756,303,12331,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:16
-483,FG2,241,255,442,12146,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:07
 484,FG1,241,712,285,12319,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:15
-485,FG2,243,236,423,12208,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:10
 486,FG1,243,746,298,12464,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:23
-487,FG2,242,196,381,12183,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
 488,FG1,242,590,235,12477,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:23
-489,FG2,244,196,384,12416,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:20
 490,FG1,244,590,235,12627,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:31
-491,Querschnitt_Straße,245,641,439,12291,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
 492,FG1,245,786,316,12468,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:23
-493,Querschnitt_Straße,246,788,336,12398,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:19
 494,FG1,246,791,317,12432,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:21
-495,FG2,248,332,518,12193,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
 496,FG1,248,670,268,12437,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:21
-497,FG2,247,368,553,12195,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
 498,FG1,247,689,276,12437,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:21
-499,FG2,249,348,530,12243,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
 500,FG1,249,759,306,12529,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
-501,FG2,250,379,559,12250,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
 502,FG1,250,770,309,12537,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
-503,FG2,251,206,387,12224,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:11
 504,FG1,251,602,239,12479,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:23
-505,FG2,252,212,392,12258,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
 506,FG1,252,719,287,12529,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
-507,FG2,253,190,373,12266,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:13
 508,FG1,253,689,273,12532,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
-509,FG2,254,206,388,12278,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:13
 510,FG1,254,711,284,12543,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:27
-511,FG2,255,229,412,12290,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
 512,FG1,255,733,294,12563,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:28
-513,FG2,257,251,429,12540,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:27
 514,FG1,257,602,239,12697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
-515,FG2,256,219,404,12538,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
 516,FG1,256,590,232,12695,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
-517,Haltelinie,259,271,294,12683,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
-518,Querschnitt_Straße,259,638,443,12735,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:36
-519,Haltelinie,258,374,257,12687,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
-520,Querschnitt_Straße,258,748,373,12737,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:36
-521,Haltelinie,260,270,293,12766,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:38
-522,Querschnitt_Straße,260,627,463,12800,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:40
-523,Haltelinie,261,358,262,12768,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:38
-524,Querschnitt_Straße,261,732,378,12805,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:40
 525,FG1,262,536,212,12823,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:41
-526,Haltelinie,262,514,211,12837,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:41
 527,FG1,263,557,220,12862,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:43
-528,Haltelinie,263,508,211,13377,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:08
 529,FG1,264,580,233,13024,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:51
-530,FG2,264,182,364,13841,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
 531,FG1,266,794,321,13486,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
-532,Querschnitt_Straße,266,787,336,13532,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:16
 533,FG1,265,783,314,13490,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
-534,Querschnitt_Straße,265,771,346,13601,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:20
 535,FG1,267,792,319,13593,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:19
-536,Querschnitt_Straße,267,711,387,13868,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:33
 537,FG1,268,779,311,13588,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:19
-538,Querschnitt_Straße,268,711,390,13850,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
 539,FG1,269,757,304,13618,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:20
-540,Querschnitt_Straße,269,685,411,13870,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:33
-541,Haltelinie,270,500,214,13752,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:27
 542,FG1,270,605,242,13826,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:31
-543,Querschnitt_Straße,271,478,549,13768,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
 544,FG1,271,738,298,13937,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:36
-545,Querschnitt_Straße,272,664,423,13858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
 546,FG1,272,638,255,15579,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:58
-547,Haltelinie,273,342,264,12995,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:49
-548,Querschnitt_Straße,273,720,392,13010,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:50
-549,Haltelinie,274,347,263,13068,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:53
-550,Querschnitt_Straße,274,718,386,13086,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:54
-551,Haltelinie,275,269,292,13117,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:55
-552,Querschnitt_Straße,275,660,450,13132,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:56
-553,Haltelinie,276,353,265,13163,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:58
-554,Querschnitt_Straße,276,721,389,13185,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:59
-555,Haltelinie,277,258,292,13219,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:00
-556,Querschnitt_Straße,277,643,465,13236,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:01
-557,Haltelinie,278,352,262,13250,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:02
-558,Querschnitt_Straße,278,726,385,13274,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:03
-559,Haltelinie,279,287,286,13295,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:04
-560,Querschnitt_Straße,279,650,436,13313,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:05
-561,Haltelinie,280,276,287,13322,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:06
-562,Querschnitt_Straße,280,645,439,13342,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:07
-563,Haltelinie,281,265,289,13381,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:09
-564,Querschnitt_Straße,281,639,449,13402,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:10
-565,Haltelinie,282,375,259,13433,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:11
-566,Querschnitt_Straße,282,728,380,13457,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:12
-567,Haltelinie,283,261,295,13464,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:13
-568,Querschnitt_Straße,283,632,462,13486,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
-569,Haltelinie,284,355,262,13471,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:13
-570,Querschnitt_Straße,284,733,379,13498,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
-571,Haltelinie,285,353,262,13556,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:17
-572,Querschnitt_Straße,285,723,386,13583,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:19
-573,FG2,286,200,381,13764,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
 574,FG1,286,591,234,14007,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:40
-575,FG2,287,219,401,13774,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
 576,FG1,287,606,240,14017,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:40
-577,FG2,288,296,480,13804,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:30
 578,FG1,288,760,305,13990,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:39
-579,Haltelinie,289,500,215,13856,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
-580,FG2,289,272,457,14084,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:44
 581,FG1,290,785,314,13644,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:22
-582,Querschnitt_Straße,290,790,333,13700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:25
 583,FG1,291,781,315,13726,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:26
-584,Querschnitt_Straße,291,722,381,13880,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:34
 585,FG1,292,793,319,13726,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:26
-586,Querschnitt_Straße,292,745,366,13840,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
 587,FG1,293,556,218,14112,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:45
-588,FG2,293,192,373,14382,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
-589,FG2,294,266,452,14377,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:58
 590,FG1,294,745,299,14639,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:11
-591,FG2,296,247,432,14395,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
 592,FG1,296,727,291,14629,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:11
-593,FG2,295,223,406,14387,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
 594,FG1,295,710,286,14655,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:12
-595,Haltelinie,297,273,292,14493,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:04
-596,Querschnitt_Straße,297,613,465,14536,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:06
-597,Haltelinie,298,272,291,14715,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:15
-598,Querschnitt_Straße,298,649,448,14732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:16
 599,FG1,299,782,316,14404,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:00
-600,Querschnitt_Straße,299,775,347,14500,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:05
-601,FG2,300,288,477,14864,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
-602,FG1,300,726,290,15061,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:33
-603,FG2,301,288,478,14865,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
 604,FG1,301,725,289,15059,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:32
-605,FG2,303,390,571,14882,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
 606,FG1,303,782,314,15117,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:35
-607,FG2,302,353,537,14879,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
 608,FG1,302,768,308,15111,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:35
-609,Querschnitt_Straße,304,642,435,14976,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:28
-610,Haltelinie,304,503,214,15198,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:39
-611,FG2,305,292,474,14884,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
 612,FG1,305,603,239,15038,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:31
-613,FG2,306,190,376,14874,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
 614,FG1,306,584,232,15122,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:36
-615,FG2,307,201,382,14892,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
 616,FG1,307,601,237,15108,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:35
-617,FG2,308,219,403,14897,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
 618,FG1,308,592,235,15237,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:41
-619,FG2,309,242,426,14905,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:25
 620,FG1,309,603,241,15231,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:41
-621,FG2,310,187,373,14906,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:25
 622,FG1,310,606,242,15122,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:36
-623,Querschnitt_Straße,311,784,340,15099,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:34
 624,FG1,311,791,319,15134,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:36
-625,Haltelinie,312,492,217,14959,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:27
-626,FG2,312,201,387,15117,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:35
-627,Haltelinie,313,508,210,15266,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:43
 628,FG1,313,566,226,15297,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:44
 629,FG1,314,771,309,15309,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:45
-630,Querschnitt_Straße,314,746,364,15870,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:13
 631,FG1,315,704,283,15645,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:02
-632,Querschnitt_Straße,315,737,373,15720,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:06
 633,FG1,317,797,320,15453,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:52
-634,Querschnitt_Straße,317,781,341,15863,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:13
 635,FG1,316,782,312,15473,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:53
-636,Querschnitt_Straße,316,770,349,15901,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:15
-637,Haltelinie,318,289,287,15224,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:41
-638,Querschnitt_Straße,318,652,431,15253,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:42
-639,Haltelinie,319,368,259,15262,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:43
-640,Querschnitt_Straße,319,730,378,15307,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:45
-641,Haltelinie,320,264,293,15291,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:44
-642,Querschnitt_Straße,320,636,443,15322,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:46
-643,Haltelinie,321,362,261,15315,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:45
-644,Querschnitt_Straße,321,708,395,15352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:47
-645,Haltelinie,322,367,258,15364,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:48
-646,Querschnitt_Straße,322,725,388,15399,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:49
-647,Haltelinie,323,360,262,15418,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:50
-648,Querschnitt_Straße,323,719,388,15443,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:52
-649,Haltelinie,324,194,319,15504,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:55
-650,Querschnitt_Straße,324,544,511,15537,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:56
-651,Querschnitt_Straße,325,661,423,15881,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:14
 652,FG1,325,771,309,16003,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:20
-653,Querschnitt_Straße,326,712,386,15910,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:15
 654,FG1,326,794,319,16015,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:20
-655,Querschnitt_Straße,327,730,377,15956,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:17
 656,FG1,327,713,287,16067,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:23
 657,FG1,328,651,261,15993,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:19
-658,Querschnitt_Straße,328,665,418,16211,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:30
-659,Haltelinie,329,376,255,16296,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:34
-660,Querschnitt_Straße,329,740,381,16352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:37
-661,Haltelinie,330,286,286,16337,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:36
-662,Querschnitt_Straße,330,666,435,16376,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:38
 663,FG1,332,797,319,16416,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:40
-664,Querschnitt_Straße,332,777,345,16517,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:45
 665,FG1,331,796,320,16342,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:37
-666,Querschnitt_Straße,331,752,360,16700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
 667,FG1,333,795,321,16500,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:45
-668,Querschnitt_Straße,333,787,336,16598,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:49
-669,FG2,335,331,517,16679,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:53
-670,Haltelinie,335,478,222,16889,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:04
-671,FG2,334,365,547,16666,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:53
-672,Haltelinie,334,493,217,16893,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:04
-673,FG2,336,237,420,16697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:54
 674,FG1,336,598,236,16908,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:05
-675,FG2,337,218,404,16704,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
 676,FG1,337,596,238,16904,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:05
-677,FG2,338,279,461,16705,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
 678,FG1,338,741,297,16946,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:07
-679,FG2,339,286,472,16725,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:56
 680,FG1,339,742,298,16964,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:08
-681,FG2,340,264,445,16717,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
 682,FG1,340,723,289,16942,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:07
-683,Querschnitt_Straße,341,707,390,16955,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:07
 684,FG1,341,678,271,17060,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:13
-685,Querschnitt_Straße,342,661,423,16903,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:05
-686,Haltelinie,342,498,213,17078,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:13
-687,FG2,344,236,422,16782,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:59
 688,FG1,344,614,244,16972,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:08
-689,FG2,343,206,390,16777,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:58
 690,FG1,343,605,240,16974,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:08
-691,FG2,345,258,439,16875,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:03
 692,FG1,345,774,310,17108,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
-693,Haltelinie,346,375,257,17048,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:12
-694,Querschnitt_Straße,346,736,376,17111,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
-695,Haltelinie,347,269,295,17069,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:13
-696,Querschnitt_Straße,347,629,455,17117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
-697,Haltelinie,348,367,256,17108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
-698,Querschnitt_Straße,348,733,375,17150,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
-699,Haltelinie,349,279,289,17123,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:16
-700,Querschnitt_Straße,349,642,438,17158,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
-701,Haltelinie,350,374,257,17153,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
-702,Querschnitt_Straße,350,742,369,17198,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
-703,Haltelinie,351,277,288,17192,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
-704,Querschnitt_Straße,351,634,444,17217,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:20
-705,Haltelinie,352,374,259,17198,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
-706,Querschnitt_Straße,352,737,379,17245,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
-707,Haltelinie,353,253,299,17233,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:21
-708,Querschnitt_Straße,353,619,466,17258,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
-709,Haltelinie,354,370,257,17241,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
-710,Querschnitt_Straße,354,730,382,17284,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:24
-711,Haltelinie,355,276,290,17309,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:25
-712,Querschnitt_Straße,355,636,453,17335,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:26
-713,Haltelinie,356,366,260,17312,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:25
-714,Querschnitt_Straße,356,724,384,17348,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:27
-715,Haltelinie,357,266,293,17370,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:28
-716,Querschnitt_Straße,357,622,458,17396,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:29
-717,Haltelinie,358,368,259,17375,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:28
-718,Querschnitt_Straße,358,714,387,17406,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:30
-719,Haltelinie,359,272,292,17442,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:32
-720,Querschnitt_Straße,359,640,455,17472,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:33
-721,Haltelinie,360,259,294,17488,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:34
-722,Querschnitt_Straße,360,624,460,17513,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:35
-723,Haltelinie,361,372,257,17514,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:35
-724,Querschnitt_Straße,361,725,381,17540,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:37
 725,FG1,362,549,216,17582,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:39
-726,Haltelinie,362,508,213,17619,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:40
 727,FG1,363,794,318,17384,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:29
-728,Querschnitt_Straße,363,741,373,17790,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:49
-729,FG2,364,191,377,17761,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:48
 730,FG1,364,580,229,17994,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:59
-731,FG2,365,195,380,17773,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:48
 732,FG1,365,594,236,17996,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:59
+736,FG1,369,781,314,49,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:02
+738,FG1,370,644,258,3017,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:30
+739,FG1,371,548,216,3209,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
+741,FG1,372,540,216,3503,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:55
+743,FG1,373,637,252,3861,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:13
+744,FG1,374,553,220,4918,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:05
+747,FG1,375,777,312,7888,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
+749,FG1,376,787,317,7891,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
+752,FG1,378,573,229,2011,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
+754,FG1,379,592,236,8753,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:17
+757,FG1,380,549,218,2855,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
+758,FG1,381,542,214,2901,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:25
+760,FG1,382,517,202,9131,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:36
+761,FG1,383,709,286,16833,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:01
+5,FG2,3,283,464,386,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:19
+11,FG2,7,371,554,482,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:24
+13,FG2,6,293,479,602,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:30
+15,FG2,8,209,391,470,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:23
+17,FG2,9,226,410,476,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:23
+24,FG2,12,234,421,805,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:40
+58,FG2,30,235,420,1428,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:11
+62,FG2,31,255,437,1436,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:11
+71,FG2,36,281,468,1693,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:24
+73,FG2,37,237,421,1711,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:25
+75,FG2,38,362,540,1723,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:26
+96,FG2,48,253,435,2455,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:02
+98,FG2,49,231,418,2471,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:03
+100,FG2,50,232,425,2523,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:06
+102,FG2,51,227,415,2430,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:01
+104,FG2,52,264,449,2432,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:01
+109,FG2,55,316,504,2257,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
+111,FG2,56,208,387,2314,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:55
+113,FG2,57,278,462,2338,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:56
+118,FG2,60,311,497,3697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:04
+120,FG2,58,256,444,3715,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:05
+121,FG2,61,204,386,2541,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:07
+123,FG2,62,226,409,3008,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:30
+164,FG2,82,383,572,3631,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:01
+168,FG2,84,400,588,3722,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:06
+188,FG2,95,285,473,4464,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:43
+190,FG2,94,257,454,4469,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:43
+256,FG2,127,382,564,7062,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:53
+271,FG2,136,248,437,7691,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:24
+273,FG2,137,229,414,7692,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:24
+275,FG2,140,221,408,7713,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
+277,FG2,138,194,375,7700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
+279,FG2,139,201,389,7712,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:25
+285,FG2,145,286,466,7868,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:33
+287,FG2,143,247,431,7856,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
+289,FG2,144,224,409,7858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
+291,FG2,146,229,413,7886,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
+330,FG2,166,345,530,8687,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
+332,FG2,165,322,510,8683,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
+347,FG2,174,275,461,8607,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:10
+351,FG2,176,184,371,8609,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:10
+353,FG2,177,212,398,8625,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:11
+355,FG2,179,226,407,8669,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
+373,FG2,187,322,508,9390,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:49
+375,FG2,188,248,433,9406,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:50
+416,FG2,208,246,434,10637,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:51
+435,FG2,218,300,486,11485,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:34
+437,FG2,217,267,451,11479,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:33
+440,FG2,220,245,429,11299,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:24
+442,FG2,221,298,481,11330,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
+444,FG2,223,226,410,11326,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
+446,FG2,222,245,427,11332,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:26
+454,FG2,226,368,559,12432,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:21
+481,FG2,240,279,465,12119,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:05
+483,FG2,241,255,442,12146,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:07
+485,FG2,243,236,423,12208,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:10
+487,FG2,242,196,381,12183,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
+489,FG2,244,196,384,12416,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:20
+495,FG2,248,332,518,12193,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
+497,FG2,247,368,553,12195,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:09
+499,FG2,249,348,530,12243,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
+501,FG2,250,379,559,12250,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
+503,FG2,251,206,387,12224,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:11
+505,FG2,252,212,392,12258,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:12
+507,FG2,253,190,373,12266,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:13
+509,FG2,254,206,388,12278,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:13
+511,FG2,255,229,412,12290,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
+513,FG2,257,251,429,12540,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:27
+515,FG2,256,219,404,12538,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:26
+530,FG2,264,182,364,13841,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
+573,FG2,286,200,381,13764,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
+575,FG2,287,219,401,13774,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
+577,FG2,288,296,480,13804,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:30
+580,FG2,289,272,457,14084,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:44
+588,FG2,293,192,373,14382,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
+589,FG2,294,266,452,14377,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:58
+591,FG2,296,247,432,14395,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
+593,FG2,295,223,406,14387,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:59
+601,FG2,300,288,477,14864,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
+603,FG2,301,288,478,14865,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
+605,FG2,303,390,571,14882,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
+607,FG2,302,353,537,14879,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
+611,FG2,305,292,474,14884,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
+613,FG2,306,190,376,14874,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:23
+615,FG2,307,201,382,14892,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
+617,FG2,308,219,403,14897,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:24
+619,FG2,309,242,426,14905,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:25
+621,FG2,310,187,373,14906,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:25
+626,FG2,312,201,387,15117,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:35
+669,FG2,335,331,517,16679,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:53
+671,FG2,334,365,547,16666,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:53
+673,FG2,336,237,420,16697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:54
+675,FG2,337,218,404,16704,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
+677,FG2,338,279,461,16705,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
+679,FG2,339,286,472,16725,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:56
+681,FG2,340,264,445,16717,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
+687,FG2,344,236,422,16782,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:59
+689,FG2,343,206,390,16777,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:58
+691,FG2,345,258,439,16875,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:03
+729,FG2,364,191,377,17761,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:48
+731,FG2,365,195,380,17773,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:48
 733,FG2,366,191,377,17814,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:50
 734,FG2,367,240,427,17785,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:49
 735,FG2,368,267,451,17783,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:49
-736,FG1,369,781,314,49,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:02
-737,Haltelinie,370,498,216,2925,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:26
-738,FG1,370,644,258,3017,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:30
-739,FG1,371,548,216,3209,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
-740,Haltelinie,371,512,209,3228,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:41
-741,FG1,372,540,216,3503,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:55
 742,FG2,373,203,388,3591,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:59
-743,FG1,373,637,252,3861,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:13
-744,FG1,374,553,220,4918,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:05
-745,Haltelinie,374,512,208,4940,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:07
-746,Querschnitt_Straße,375,779,343,7837,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:31
-747,FG1,375,777,312,7888,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
-748,Querschnitt_Straße,376,791,334,7854,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
-749,FG1,376,787,317,7891,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:34
-750,Haltelinie,377,174,325,9635,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:01
 751,FG2,377,234,422,9670,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:03
-752,FG1,378,573,229,2011,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
+1,Haltelinie,1,272,284,87,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:04
+3,Haltelinie,2,271,292,173,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:08
+26,Haltelinie,13,512,211,661,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:33
+27,Haltelinie,14,371,258,819,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:40
+29,Haltelinie,15,287,286,839,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:41
+31,Haltelinie,16,192,319,870,Fahrrad mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:43
+33,Haltelinie,17,370,259,880,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:44
+35,Haltelinie,18,274,292,908,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
+37,Haltelinie,19,374,254,935,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:46
+39,Haltelinie,20,259,296,970,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:48
+41,Haltelinie,21,372,257,980,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:49
+43,Haltelinie,22,275,293,1009,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:50
+45,Haltelinie,23,372,256,1022,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:51
+47,Haltelinie,24,275,291,1052,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:52
+49,Haltelinie,25,263,294,1092,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:54
+51,Haltelinie,26,378,255,1103,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:55
+53,Haltelinie,27,267,293,1154,Pkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:57
+55,Haltelinie,28,292,285,1266,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:03
+64,Haltelinie,32,509,214,1648,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:22
+65,Haltelinie,33,512,211,1238,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:01
+78,Haltelinie,40,512,212,1788,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:29
+80,Haltelinie,39,512,209,1785,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:29
+81,Haltelinie,41,375,255,1907,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:35
+83,Haltelinie,42,264,294,1931,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:36
+85,Haltelinie,43,371,258,1949,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:37
+87,Haltelinie,44,261,298,2011,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
+89,Haltelinie,45,368,259,2016,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:40
+101,Haltelinie,51,491,216,2245,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
+103,Haltelinie,52,478,222,2253,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:52
+105,Haltelinie,53,503,209,2267,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:53
+107,Haltelinie,54,506,209,2269,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:53
+110,Haltelinie,55,476,223,2372,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:58
+127,Haltelinie,65,270,292,2630,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:11
+129,Haltelinie,64,358,261,2633,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:11
+131,Haltelinie,66,365,257,2698,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:14
+133,Haltelinie,68,268,293,2731,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
+135,Haltelinie,67,371,256,2732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
+137,Haltelinie,69,277,292,2807,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:20
+139,Haltelinie,70,372,258,2818,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:20
+141,Haltelinie,71,276,291,2858,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
+143,Haltelinie,72,282,285,2911,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:25
+145,Haltelinie,73,389,254,3114,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:35
+147,Haltelinie,74,363,261,3172,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:38
+149,Haltelinie,75,266,294,3186,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:39
+151,Haltelinie,76,365,259,3208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
+153,Haltelinie,78,273,295,3260,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:43
+155,Haltelinie,77,359,263,3259,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:42
+157,Haltelinie,79,275,291,3345,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:47
+159,Haltelinie,80,502,215,3460,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:53
+161,Haltelinie,81,510,209,3448,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:52
+163,Haltelinie,82,464,227,3303,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:45
+167,Haltelinie,84,482,222,2858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
+175,Haltelinie,88,371,256,3922,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:16
+177,Haltelinie,89,288,287,3952,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:17
+179,Haltelinie,90,279,287,4016,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:20
+181,Haltelinie,92,370,257,4076,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:23
+183,Haltelinie,91,287,285,4070,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:23
+185,Haltelinie,93,360,259,4145,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:27
+191,Haltelinie,96,189,322,4343,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:37
+193,Haltelinie,97,365,259,4673,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:53
+195,Haltelinie,98,283,290,4688,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:54
+197,Haltelinie,99,366,260,4736,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:56
+201,Haltelinie,102,278,290,4741,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:57
+203,Haltelinie,101,370,260,4776,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:58
+205,Haltelinie,103,272,289,4804,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:00
+207,Haltelinie,104,374,258,4826,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:01
+209,Haltelinie,105,350,261,4876,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:03
+219,Haltelinie,110,284,287,5470,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:33
+223,Haltelinie,112,262,295,6250,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:12
+225,Haltelinie,113,381,255,6265,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:13
+227,Haltelinie,114,273,291,6302,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
+229,Haltelinie,115,372,258,6317,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
+231,Haltelinie,117,374,257,6358,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:17
+233,Haltelinie,116,270,294,6375,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:18
+235,Haltelinie,118,386,256,6413,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:20
+237,Haltelinie,119,260,294,6446,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:22
+239,Haltelinie,120,347,265,6475,Lkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
+241,Haltelinie,121,270,291,6517,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:25
+243,Haltelinie,122,369,258,6545,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:27
+245,Haltelinie,123,271,292,6578,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:28
+247,Haltelinie,124,371,256,6594,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:29
+249,Haltelinie,125,358,260,6636,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:31
+251,Haltelinie,126,372,260,6684,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:34
+263,Haltelinie,132,279,288,7311,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:05
+265,Haltelinie,133,276,290,7375,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:08
+282,Haltelinie,142,512,209,7967,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:38
+284,Haltelinie,141,511,211,7963,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:38
+293,Haltelinie,147,366,259,8035,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:41
+295,Haltelinie,148,183,325,8041,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:42
+297,Haltelinie,149,364,261,8073,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
+299,Haltelinie,150,180,325,8106,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
+301,Haltelinie,151,282,290,8098,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:44
+303,Haltelinie,152,381,255,8117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
+305,Haltelinie,153,367,259,8208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:50
+307,Haltelinie,154,285,287,8243,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:52
+309,Haltelinie,155,194,322,8248,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:52
+311,Haltelinie,156,178,328,8229,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
+315,Haltelinie,158,362,259,8270,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:53
+317,Haltelinie,159,273,290,8291,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
+319,Haltelinie,160,291,286,8348,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
+321,Haltelinie,161,291,287,8348,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
+323,Haltelinie,162,377,255,8390,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:59
+325,Haltelinie,163,276,292,8440,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:02
+327,Haltelinie,164,283,287,8484,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:04
+334,Haltelinie,167,499,214,8499,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:04
+336,Haltelinie,168,507,211,8515,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
+338,Haltelinie,169,508,208,8517,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
+340,Haltelinie,170,510,211,8521,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:06
+341,Haltelinie,172,500,215,8348,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
+343,Haltelinie,173,487,220,8344,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:57
+345,Haltelinie,171,507,215,8335,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:56
+352,Haltelinie,176,453,230,8793,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:19
+354,Haltelinie,177,482,221,8807,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:20
+359,Haltelinie,181,375,255,9108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:35
+361,Haltelinie,180,271,292,9090,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:34
+363,Haltelinie,182,373,256,9144,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:37
+365,Haltelinie,183,272,293,9157,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:37
+367,Haltelinie,184,257,294,9220,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:41
+369,Haltelinie,185,270,291,9286,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:44
+371,Haltelinie,186,365,262,9334,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:46
+379,Haltelinie,189,511,209,9813,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:10
+384,Haltelinie,193,373,256,9841,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:12
+386,Haltelinie,192,267,293,9843,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:12
+388,Haltelinie,194,365,261,9907,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:15
+390,Haltelinie,195,287,286,9938,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:16
+392,Haltelinie,196,360,264,9973,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:18
+394,Haltelinie,197,268,294,9985,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:19
+396,Haltelinie,198,364,260,10009,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:20
+398,Haltelinie,199,269,293,10043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
+400,Haltelinie,200,381,255,10073,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:23
+402,Haltelinie,201,275,291,10108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:25
+404,Haltelinie,202,370,257,10142,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:27
+406,Haltelinie,203,368,257,10195,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:29
+408,Haltelinie,204,273,292,10202,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:30
+410,Haltelinie,205,366,258,10306,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:35
+412,Haltelinie,206,262,297,10316,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:35
+414,Haltelinie,207,269,293,10395,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:39
+418,Haltelinie,209,511,210,10717,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:55
+422,Haltelinie,212,375,258,10936,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:06
+424,Haltelinie,211,268,291,10946,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:07
+426,Haltelinie,213,280,289,11001,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:10
+428,Haltelinie,214,369,258,11004,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:10
+430,Haltelinie,215,270,294,11050,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:12
+432,Haltelinie,216,376,257,11153,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:17
+455,Haltelinie,227,369,258,11702,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:45
+457,Haltelinie,228,277,291,11713,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:45
+459,Haltelinie,229,356,260,11754,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:47
+461,Haltelinie,230,268,294,11768,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:48
+463,Haltelinie,231,376,257,11801,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
+465,Haltelinie,232,269,294,11817,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
+467,Haltelinie,233,272,291,11859,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:52
+469,Haltelinie,234,378,256,11876,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:53
+471,Haltelinie,235,375,256,11918,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:55
+473,Haltelinie,236,272,289,11948,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:57
+475,Haltelinie,237,374,257,11982,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
+477,Haltelinie,238,265,295,11997,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
+479,Haltelinie,239,363,260,12043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:02
+517,Haltelinie,259,271,294,12683,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
+519,Haltelinie,258,374,257,12687,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:34
+521,Haltelinie,260,270,293,12766,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:38
+523,Haltelinie,261,358,262,12768,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:38
+526,Haltelinie,262,514,211,12837,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:41
+528,Haltelinie,263,508,211,13377,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:08
+541,Haltelinie,270,500,214,13752,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:27
+547,Haltelinie,273,342,264,12995,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:49
+549,Haltelinie,274,347,263,13068,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:53
+551,Haltelinie,275,269,292,13117,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:55
+553,Haltelinie,276,353,265,13163,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:58
+555,Haltelinie,277,258,292,13219,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:00
+557,Haltelinie,278,352,262,13250,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:02
+559,Haltelinie,279,287,286,13295,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:04
+561,Haltelinie,280,276,287,13322,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:06
+563,Haltelinie,281,265,289,13381,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:09
+565,Haltelinie,282,375,259,13433,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:11
+567,Haltelinie,283,261,295,13464,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:13
+569,Haltelinie,284,355,262,13471,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:13
+571,Haltelinie,285,353,262,13556,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:17
+579,Haltelinie,289,500,215,13856,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
+595,Haltelinie,297,273,292,14493,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:04
+597,Haltelinie,298,272,291,14715,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:15
+610,Haltelinie,304,503,214,15198,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:39
+625,Haltelinie,312,492,217,14959,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:27
+627,Haltelinie,313,508,210,15266,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:43
+637,Haltelinie,318,289,287,15224,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:41
+639,Haltelinie,319,368,259,15262,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:43
+641,Haltelinie,320,264,293,15291,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:44
+643,Haltelinie,321,362,261,15315,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:45
+645,Haltelinie,322,367,258,15364,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:48
+647,Haltelinie,323,360,262,15418,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:50
+649,Haltelinie,324,194,319,15504,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:55
+659,Haltelinie,329,376,255,16296,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:34
+661,Haltelinie,330,286,286,16337,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:36
+670,Haltelinie,335,478,222,16889,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:04
+672,Haltelinie,334,493,217,16893,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:04
+686,Haltelinie,342,498,213,17078,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:13
+693,Haltelinie,346,375,257,17048,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:12
+695,Haltelinie,347,269,295,17069,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:13
+697,Haltelinie,348,367,256,17108,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
+699,Haltelinie,349,279,289,17123,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:16
+701,Haltelinie,350,374,257,17153,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
+703,Haltelinie,351,277,288,17192,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
+705,Haltelinie,352,374,259,17198,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
+707,Haltelinie,353,253,299,17233,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:21
+709,Haltelinie,354,370,257,17241,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
+711,Haltelinie,355,276,290,17309,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:25
+713,Haltelinie,356,366,260,17312,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:25
+715,Haltelinie,357,266,293,17370,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:28
+717,Haltelinie,358,368,259,17375,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:28
+719,Haltelinie,359,272,292,17442,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:32
+721,Haltelinie,360,259,294,17488,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:34
+723,Haltelinie,361,372,257,17514,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:35
+726,Haltelinie,362,508,213,17619,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:40
+737,Haltelinie,370,498,216,2925,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:26
+740,Haltelinie,371,512,209,3228,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:41
+745,Haltelinie,374,512,208,4940,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:07
+750,Haltelinie,377,174,325,9635,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:01
 753,Haltelinie,378,499,214,2023,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:41
-754,FG1,379,592,236,8753,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:17
 755,Haltelinie,379,514,207,8782,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:19
 756,Haltelinie,380,513,210,2830,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:21
-757,FG1,380,549,218,2855,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
-758,FG1,381,542,214,2901,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:25
 759,Haltelinie,381,508,212,2917,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:25
-760,FG1,382,517,202,9131,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:36
-761,FG1,383,709,286,16833,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:01
+2,Querschnitt_Straße,1,644,434,130,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:06
+4,Querschnitt_Straße,2,632,445,206,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:10
+7,Querschnitt_Straße,5,737,369,554,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:27
+9,Querschnitt_Straße,4,590,471,493,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:24
+20,Querschnitt_Straße,11,788,335,638,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:31
+22,Querschnitt_Straße,10,773,346,659,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:32
+28,Querschnitt_Straße,14,731,380,873,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:43
+30,Querschnitt_Straße,15,650,434,890,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:44
+32,Querschnitt_Straße,16,471,552,911,Fahrrad mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
+34,Querschnitt_Straße,17,732,375,915,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:45
+36,Querschnitt_Straße,18,635,447,944,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:47
+38,Querschnitt_Straße,19,741,373,964,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:48
+40,Querschnitt_Straße,20,605,466,999,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:49
+42,Querschnitt_Straße,21,737,378,1010,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:50
+44,Querschnitt_Straße,22,627,450,1038,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:51
+46,Querschnitt_Straße,23,742,377,1060,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:53
+48,Querschnitt_Straße,24,636,443,1078,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:53
+50,Querschnitt_Straße,25,620,468,1117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:55
+52,Querschnitt_Straße,26,758,363,1148,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:57
+54,Querschnitt_Straße,27,619,461,1178,Pkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:30:58
+56,Querschnitt_Straße,28,679,416,1278,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:03
+63,Querschnitt_Straße,32,757,359,1478,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:13
+67,Querschnitt_Straße,34,724,382,1490,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:14
+69,Querschnitt_Straße,35,581,475,1510,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:15
+82,Querschnitt_Straße,41,737,378,1962,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:38
+84,Querschnitt_Straße,42,620,454,1949,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:37
+86,Querschnitt_Straße,43,734,374,1995,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:39
+88,Querschnitt_Straße,44,621,464,2026,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:41
+90,Querschnitt_Straße,45,738,379,2059,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:42
+92,Querschnitt_Straße,46,757,358,2297,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:54
+94,Querschnitt_Straße,47,767,351,2284,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:31:54
+116,Querschnitt_Straße,59,771,347,3215,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
+117,Querschnitt_Straße,60,620,450,3638,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:01
+126,Querschnitt_Straße,63,665,419,3102,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:35
+128,Querschnitt_Straße,65,634,461,2671,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:13
+130,Querschnitt_Straße,64,721,383,2700,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:15
+132,Querschnitt_Straße,66,724,380,2739,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:16
+134,Querschnitt_Straße,68,633,455,2758,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:17
+136,Querschnitt_Straße,67,740,377,2772,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:18
+138,Querschnitt_Straße,69,639,455,2834,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:21
+140,Querschnitt_Straße,70,738,381,2851,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:22
+142,Querschnitt_Straße,71,632,452,2884,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:24
+144,Querschnitt_Straße,72,631,450,2937,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:26
+146,Querschnitt_Straße,73,760,364,3155,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:37
+148,Querschnitt_Straße,74,726,382,3201,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
+150,Querschnitt_Straße,75,619,459,3203,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:40
+152,Querschnitt_Straße,76,723,384,3236,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:41
+154,Querschnitt_Straße,78,626,440,3277,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:43
+156,Querschnitt_Straße,77,696,394,3284,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:44
+158,Querschnitt_Straße,79,630,456,3365,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:48
+166,Querschnitt_Straße,83,692,401,3579,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:32:58
+170,Querschnitt_Straße,86,770,349,3669,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:03
+172,Querschnitt_Straße,85,738,373,3697,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:04
+173,Querschnitt_Straße,87,791,336,3733,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:06
+176,Querschnitt_Straße,88,736,376,3968,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:18
+178,Querschnitt_Straße,89,643,445,4011,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:20
+180,Querschnitt_Straße,90,640,439,4053,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:22
+182,Querschnitt_Straße,92,731,380,4095,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:24
+184,Querschnitt_Straße,91,639,450,4103,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:25
+186,Querschnitt_Straße,93,722,385,4164,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:28
+192,Querschnitt_Straße,96,443,576,4381,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:39
+194,Querschnitt_Straße,97,724,385,4717,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:55
+196,Querschnitt_Straße,98,626,456,4732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:56
+198,Querschnitt_Straße,99,725,383,4772,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:58
+202,Querschnitt_Straße,102,631,448,4780,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:33:59
+204,Querschnitt_Straße,101,729,383,4808,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:00
+206,Querschnitt_Straße,103,638,444,4837,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:01
+208,Querschnitt_Straße,104,741,377,4855,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:02
+210,Querschnitt_Straße,105,710,393,4899,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:04
+212,Querschnitt_Straße,106,644,438,5085,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:14
+213,Querschnitt_Straße,107,788,337,5197,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:19
+216,Querschnitt_Straße,108,761,358,5263,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:23
+218,Querschnitt_Straße,109,777,348,5332,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:26
+220,Querschnitt_Straße,110,644,437,5527,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:34:36
+221,Querschnitt_Straße,111,772,349,6052,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:02
+224,Querschnitt_Straße,112,608,463,6291,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:14
+226,Querschnitt_Straße,113,731,380,6316,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:15
+228,Querschnitt_Straße,114,615,452,6331,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:16
+230,Querschnitt_Straße,115,734,381,6358,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:17
+232,Querschnitt_Straße,117,727,379,6397,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:19
+234,Querschnitt_Straße,116,646,447,6410,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:20
+236,Querschnitt_Straße,118,729,379,6460,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
+238,Querschnitt_Straße,119,608,472,6478,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:23
+240,Querschnitt_Straße,120,661,423,6510,Lkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:25
+242,Querschnitt_Straße,121,636,452,6560,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:28
+244,Querschnitt_Straße,122,732,382,6585,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:29
+246,Querschnitt_Straße,123,641,450,6609,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:30
+248,Querschnitt_Straße,124,731,382,6631,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:31
+250,Querschnitt_Straße,125,725,386,6674,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:33
+252,Querschnitt_Straße,126,732,383,6715,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:35
+254,Querschnitt_Straße,128,461,557,7035,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:51
+257,Querschnitt_Straße,129,578,480,6767,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:38
+259,Querschnitt_Straße,130,692,402,6823,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:41
+261,Querschnitt_Straße,131,753,358,6957,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:35:47
+264,Querschnitt_Straße,132,651,437,7363,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:08
+266,Querschnitt_Straße,133,650,445,7413,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:10
+268,Querschnitt_Straße,134,654,429,7748,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:27
+270,Querschnitt_Straße,135,769,350,7673,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:23
+294,Querschnitt_Straße,147,724,385,8071,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
+296,Querschnitt_Straße,148,477,550,8073,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:43
+298,Querschnitt_Straße,149,725,382,8104,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:45
+300,Querschnitt_Straße,150,467,555,8134,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:46
+302,Querschnitt_Straße,151,625,442,8150,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:47
+304,Querschnitt_Straße,152,709,364,8143,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:47
+306,Querschnitt_Straße,153,736,383,8239,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:51
+308,Querschnitt_Straße,154,646,442,8271,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:53
+310,Querschnitt_Straße,155,494,542,8282,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
+312,Querschnitt_Straße,156,412,591,8280,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:54
+316,Querschnitt_Straße,158,726,388,8301,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:55
+318,Querschnitt_Straße,159,631,445,8316,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:55
+320,Querschnitt_Straße,160,660,433,8373,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:58
+322,Querschnitt_Straße,161,656,429,8373,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:58
+324,Querschnitt_Straße,162,736,378,8414,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:00
+326,Querschnitt_Straße,163,640,453,8463,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:03
+328,Querschnitt_Straße,164,643,442,8506,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:05
+342,Querschnitt_Straße,172,740,370,8690,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:14
+344,Querschnitt_Straße,173,720,385,8708,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:15
+346,Querschnitt_Straße,171,749,362,8668,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
+349,Querschnitt_Straße,175,496,539,8666,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:13
+357,Querschnitt_Straße,178,694,403,8650,Scooter,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:12
+360,Querschnitt_Straße,181,737,374,9165,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:38
+362,Querschnitt_Straße,180,629,452,9161,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:38
+364,Querschnitt_Straße,182,735,380,9189,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:39
+366,Querschnitt_Straße,183,629,456,9208,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:40
+368,Querschnitt_Straße,184,626,460,9257,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:42
+370,Querschnitt_Straße,185,627,452,9317,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:45
+372,Querschnitt_Straße,186,737,380,9364,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:37:48
+377,Querschnitt_Straße,189,784,337,9648,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:02
+381,Querschnitt_Straße,190,726,381,10641,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:52
+383,Querschnitt_Straße,191,714,386,10606,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:50
+385,Querschnitt_Straße,193,734,381,9895,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:14
+387,Querschnitt_Straße,192,661,432,9906,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:15
+389,Querschnitt_Straße,194,721,388,9962,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:18
+391,Querschnitt_Straße,195,661,430,9992,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:19
+393,Querschnitt_Straße,196,717,391,10025,Motorisierte Zweiräder,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:21
+395,Querschnitt_Straße,197,632,451,10043,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
+397,Querschnitt_Straße,198,737,379,10059,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:22
+399,Querschnitt_Straße,199,631,452,10099,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:24
+401,Querschnitt_Straße,200,742,372,10115,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:25
+403,Querschnitt_Straße,201,655,452,10146,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:27
+405,Querschnitt_Straße,202,733,381,10183,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:29
+407,Querschnitt_Straße,203,737,375,10239,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:31
+409,Querschnitt_Straße,204,641,456,10235,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:31
+411,Querschnitt_Straße,205,736,377,10340,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:37
+413,Querschnitt_Straße,206,625,462,10352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:37
+415,Querschnitt_Straße,207,612,462,10425,Lkw mit Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:41
+421,Querschnitt_Straße,210,779,344,10704,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:38:55
+423,Querschnitt_Straße,212,738,377,10999,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:09
+425,Querschnitt_Straße,211,637,456,10992,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:09
+427,Querschnitt_Straße,213,639,443,11034,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:11
+429,Querschnitt_Straße,214,733,380,11044,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:12
+431,Querschnitt_Straße,215,640,444,11078,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:13
+433,Querschnitt_Straße,216,747,376,11182,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:19
+439,Querschnitt_Straße,219,590,471,11396,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:29
+448,Querschnitt_Straße,224,780,345,11606,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:40
+451,Querschnitt_Straße,225,706,390,12201,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:10
+453,Querschnitt_Straße,226,750,365,12282,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
+456,Querschnitt_Straße,227,726,386,11739,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:46
+458,Querschnitt_Straße,228,640,452,11757,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:47
+460,Querschnitt_Straße,229,726,384,11786,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:49
+462,Querschnitt_Straße,230,624,458,11802,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:50
+464,Querschnitt_Straße,231,731,377,11830,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:51
+466,Querschnitt_Straße,232,632,456,11848,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:52
+468,Querschnitt_Straße,233,631,448,11893,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:54
+470,Querschnitt_Straße,234,745,369,11911,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:55
+472,Querschnitt_Straße,235,741,380,11953,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:57
+474,Querschnitt_Straße,236,637,449,11981,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:39:59
+476,Querschnitt_Straße,237,749,375,12018,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:00
+478,Querschnitt_Straße,238,619,456,12026,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:01
+480,Querschnitt_Straße,239,725,381,12075,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:03
+491,Querschnitt_Straße,245,641,439,12291,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:14
+493,Querschnitt_Straße,246,788,336,12398,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:19
+518,Querschnitt_Straße,259,638,443,12735,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:36
+520,Querschnitt_Straße,258,748,373,12737,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:36
+522,Querschnitt_Straße,260,627,463,12800,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:40
+524,Querschnitt_Straße,261,732,378,12805,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:40
+532,Querschnitt_Straße,266,787,336,13532,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:16
+534,Querschnitt_Straße,265,771,346,13601,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:20
+536,Querschnitt_Straße,267,711,387,13868,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:33
+538,Querschnitt_Straße,268,711,390,13850,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
+540,Querschnitt_Straße,269,685,411,13870,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:33
+543,Querschnitt_Straße,271,478,549,13768,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:28
+545,Querschnitt_Straße,272,664,423,13858,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
+548,Querschnitt_Straße,273,720,392,13010,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:50
+550,Querschnitt_Straße,274,718,386,13086,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:54
+552,Querschnitt_Straße,275,660,450,13132,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:56
+554,Querschnitt_Straße,276,721,389,13185,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:40:59
+556,Querschnitt_Straße,277,643,465,13236,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:01
+558,Querschnitt_Straße,278,726,385,13274,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:03
+560,Querschnitt_Straße,279,650,436,13313,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:05
+562,Querschnitt_Straße,280,645,439,13342,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:07
+564,Querschnitt_Straße,281,639,449,13402,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:10
+566,Querschnitt_Straße,282,728,380,13457,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:12
+568,Querschnitt_Straße,283,632,462,13486,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
+570,Querschnitt_Straße,284,733,379,13498,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:14
+572,Querschnitt_Straße,285,723,386,13583,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:19
+582,Querschnitt_Straße,290,790,333,13700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:25
+584,Querschnitt_Straße,291,722,381,13880,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:34
+586,Querschnitt_Straße,292,745,366,13840,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:41:32
+596,Querschnitt_Straße,297,613,465,14536,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:06
+598,Querschnitt_Straße,298,649,448,14732,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:16
+600,Querschnitt_Straße,299,775,347,14500,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:05
+609,Querschnitt_Straße,304,642,435,14976,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:28
+623,Querschnitt_Straße,311,784,340,15099,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:34
+630,Querschnitt_Straße,314,746,364,15870,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:13
+632,Querschnitt_Straße,315,737,373,15720,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:06
+634,Querschnitt_Straße,317,781,341,15863,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:13
+636,Querschnitt_Straße,316,770,349,15901,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:15
+638,Querschnitt_Straße,318,652,431,15253,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:42
+640,Querschnitt_Straße,319,730,378,15307,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:45
+642,Querschnitt_Straße,320,636,443,15322,Lieferwagen ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:46
+644,Querschnitt_Straße,321,708,395,15352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:47
+646,Querschnitt_Straße,322,725,388,15399,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:49
+648,Querschnitt_Straße,323,719,388,15443,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:52
+650,Querschnitt_Straße,324,544,511,15537,Fahrrad ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:42:56
+651,Querschnitt_Straße,325,661,423,15881,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:14
+653,Querschnitt_Straße,326,712,386,15910,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:15
+655,Querschnitt_Straße,327,730,377,15956,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:17
+658,Querschnitt_Straße,328,665,418,16211,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:30
+660,Querschnitt_Straße,329,740,381,16352,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:37
+662,Querschnitt_Straße,330,666,435,16376,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:38
+664,Querschnitt_Straße,332,777,345,16517,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:45
+666,Querschnitt_Straße,331,752,360,16700,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:55
+668,Querschnitt_Straße,333,787,336,16598,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:43:49
+683,Querschnitt_Straße,341,707,390,16955,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:07
+685,Querschnitt_Straße,342,661,423,16903,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:05
+694,Querschnitt_Straße,346,736,376,17111,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
+696,Querschnitt_Straße,347,629,455,17117,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:15
+698,Querschnitt_Straße,348,733,375,17150,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
+700,Querschnitt_Straße,349,642,438,17158,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:17
+702,Querschnitt_Straße,350,742,369,17198,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:19
+704,Querschnitt_Straße,351,634,444,17217,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:20
+706,Querschnitt_Straße,352,737,379,17245,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
+708,Querschnitt_Straße,353,619,466,17258,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:22
+710,Querschnitt_Straße,354,730,382,17284,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:24
+712,Querschnitt_Straße,355,636,453,17335,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:26
+714,Querschnitt_Straße,356,724,384,17348,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:27
+716,Querschnitt_Straße,357,622,458,17396,Bus,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:29
+718,Querschnitt_Straße,358,714,387,17406,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:30
+720,Querschnitt_Straße,359,640,455,17472,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:33
+722,Querschnitt_Straße,360,624,460,17513,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:35
+724,Querschnitt_Straße,361,725,381,17540,Pkw ohne Anhänger,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:37
+728,Querschnitt_Straße,363,741,373,17790,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:49
+746,Querschnitt_Straße,375,779,343,7837,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:31
+748,Querschnitt_Straße,376,791,334,7854,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:36:32
 762,Querschnitt_Straße,383,731,376,16863,Person,Saarbruecken_OTCamera04_FR20_2022-10-17_18-30-00.mp4,2022-10-17 18:44:03
