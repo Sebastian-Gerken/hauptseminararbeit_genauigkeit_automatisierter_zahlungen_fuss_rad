@@ -1,14 +1,14 @@
-library(tidyverse)
+#Skript zum Visualisieren der Schnittpunkte
+
+ibrary(tidyverse)
 setwd()
-T  <- 900 #T in seconds!!!
+T  <- 900 #T in Sekunden!!!
 t <- NULL
-##loops all seconds and tests if the 
 for (i in 1:(T)){
   if ((T) %% i == 0){
     t <- c(t,  i)
   }
 }
-
 s_i <- function(T, t){
   s <- (T / t) - 1
   return(s)

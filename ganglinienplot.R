@@ -1,3 +1,5 @@
+#Skriptsammlung zur generierung von Ganglinien
+#Diese Skript wurde für die Auswertung nicht verwendet
 library(tidyverse)
 df_gt <- read_csv("./data/gt_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_v5.csv")
 df_eval <- read_csv("./data/otv_data/Saarbruecken_OTCamera04_FR20_2022-10-17_13-15-00_events.csv")
@@ -22,10 +24,3 @@ ggplot() +
   geom_line(data  = df_gt_count_class,aes(x = as.POSIXct(interval), y =count),alpha = 0.5, fill = "red") +
   coord_cartesian(ylim = c(0, NA)) +
   theme_bw()
-
-
-for (i in 1:900) {
-  if (900 %% i == 0) {
-    print(i)
-  }
-}

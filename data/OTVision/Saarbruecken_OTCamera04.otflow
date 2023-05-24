@@ -1,0 +1,57 @@
+{
+    "Detectors": {
+        "Haltelinie": {
+            "type": "line",
+            "start_x": 154,
+            "start_y": 334,
+            "end_x": 520,
+            "end_y": 208,
+            "color": [
+                200,
+                125,
+                125,
+                255
+            ]
+        },
+        "FG1": {
+            "type": "line",
+            "start_x": 515,
+            "start_y": 204,
+            "end_x": 802,
+            "end_y": 323,
+            "color": [
+                200,
+                125,
+                125,
+                255
+            ]
+        },
+        "FG2": {
+            "type": "line",
+            "start_x": 153,
+            "start_y": 336,
+            "end_x": 403,
+            "end_y": 587,
+            "color": [
+                200,
+                125,
+                125,
+                255
+            ]
+        },
+        "Querschnitt_Stra\u00dfe": {
+            "type": "line",
+            "start_x": 795,
+            "start_y": 330,
+            "end_x": 408,
+            "end_y": 593,
+            "color": [
+                200,
+                125,
+                125,
+                255
+            ]
+        }
+    },
+    "Movements": {}
+}
