@@ -1,7 +1,6 @@
 library(tidyverse)
-setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung/countdata_5min")
 
-folderlist <- list.dirs()
+folderlist <- list.dirs("./countdata_5min/")
 for (fi_index in 1:2){
   
   for (fo_index in 5:7){
