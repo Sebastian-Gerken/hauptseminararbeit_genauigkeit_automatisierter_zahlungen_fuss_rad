@@ -1,6 +1,6 @@
 #Skript zum Visualisieren der Schnittpunkte
 
-ibrary(tidyverse)
+library(tidyverse)
 setwd()
 T  <- 900 #T in Sekunden!!!
 t <- NULL

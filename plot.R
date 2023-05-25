@@ -1,3 +1,4 @@
+#Skript zum Plotten der Ergebnisse
 library(tidyverse)
 library(reshape2)
 library(lubridate)
@@ -5,8 +6,8 @@ library(knitr)
 library(gridExtra)
 library(writexl)
 library(magrittr)
-#setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung/countdata_5min/plot_TUDCam01")
-setwd("C:/Users/sebas/OneDrive/8. Semester/Hauptseminararbeit/Auswertung/countdata_5min/plot")
+#<<< Hier zu bearbeitenden Ordner auswählen >>>
+setwd("./auswertung_output/plot_saarbruecken")
 # Read and preprocess the data
 files <- list.files(pattern = ".csv")
 all_dfs <- list()
