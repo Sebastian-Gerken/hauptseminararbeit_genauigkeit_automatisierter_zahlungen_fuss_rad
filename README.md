@@ -1,62 +1,58 @@
-# Hauptseminararbeit: Genauigkeit automatisierter Zahlungen des Fuß- und Radverkehrs
+# Hauptseminararbeit: Genauigkeit automatisierter Zählungen des Fuß- und Radverkehrs
 
-Dieses Repository enthält Skripte und Daten für Hauptseminararbeit zur Genauigkeit automatisierter Zahlungen des Rad- und Fußverkehrs.
-Diese Dokumentation ist in teilen mit Hilfe von ChatGPT entstanden.
+Dieses Repository enthält Skripte und Daten für die Hauptseminararbeit zur Genauigkeit automatisierter Zählungen des Rad- und Fußverkehrs. Teile dieser Dokumentation wurden mithilfe von ChatGPT erstellt.
 
 ## Struktur des Repositorys
 
-Das Repository ist wie folgt organisiert:
+Das Repository ist folgendermaßen strukturiert:
 
-- `.vscode`: Dieses Verzeichnis enthält Einstellungen für den Editor Visual Studio Code.
-- `auswertung_output`: In diesem Verzeichnis werden Ausgabedateien gespeichert, die von den Auswertungsskripten erstellt werden.
-- `binaererklassifikator`: Dieses Verzeichnis enthält das Skript für den Binärklassifikator und zugehörige Dateien.
-- `data`: In diesem Verzeichnis befinden sich die Daten, die im Projekt verwendet werden.
-- `plots`: Dieses Verzeichnis enthält erzeugte Plot-Dateien.
-- `Auswertung.Rproj`: Dies ist die Datei für das R-Projekt.
-- `README.md`: Diese Datei bietet einen Überblick über das Repository und Anleitungen zur Verwendung der Skripte.
-- `auswertung.ipynb`: Dies ist eine Jupyter-Notebook-Datei, die das Auswertungsskript enthält.
-- `ganglinienplot.R`: Dieses R-Skript erzeugt Liniendiagramme.
-- `merge.R`: Dieses R-Skript führt mehrere Datendateien zusammen.
-- `plot.R`: Dieses R-Skript erzeugt verschiedene Plots.
-- `referenzdaten_fehlerplot.R`: Dieses R-Skript erstellt Fehlerdiagramme basierend auf Referenzdaten.
-- `referenzdaten_fehleruntersuchung.ipynb`: Dies ist eine Jupyter-Notebook-Datei, die ein Skript zur Untersuchung von Fehlern in den Referenzdaten enthält.
-- `schnittpunkt_plot.R`: Dieses R-Skript erzeugt einen Plot, welcher potenzielle Fehler veranschaulicht.
+- `.vscode`: Enthält Konfigurationen für den Editor Visual Studio Code.
+- `auswertung_output`: Speichert Ausgabedateien, generiert durch die Auswertungsskripte.
+- `binaererklassifikator`: Enthält das Skript für den Binärklassifikator und zugehörige Dateien.
+- `data`: Beinhaltet die im Projekt verwendeten Daten.
+- `plots`: Speichert die generierten Plots.
+- `Auswertung.Rproj`: R-Projekt-Datei.
+- `README.md`: Bietet eine Übersicht über das Repository und Anleitungen zur Nutzung der Skripte.
+- `auswertung.ipynb`: Jupyter-Notebook-Datei mit Auswertungsskript.
+- `ganglinienplot.R`: R-Skript zur Erzeugung von Liniendiagrammen.
+- `merge.R`: R-Skript zur Zusammenführung mehrerer Datendateien.
+- `plot.R`: R-Skript zur Erzeugung diverser Plots.
+- `referenzdaten_fehlerplot.R`: R-Skript zur Erstellung von Fehlerdiagrammen auf Basis von Referenzdaten.
+- `referenzdaten_fehleruntersuchung.ipynb`: Jupyter-Notebook-Datei mit Skript zur Fehleruntersuchung in Referenzdaten.
+- `schnittpunkt_plot.R`: R-Skript zur Erstellung eines Plots, der potenzielle Fehler veranschaulicht.
 
 ## Skripte
 
-### Trafficcount-cv-gt-evaluation
+### auswertung.ipynb
 
-Dieses Skript verarbeitet Verkehrsereignisdaten von OpenTrafficCam OTVision, die mit OTAnalytic und Groundtruth-Daten verarbeitet wurden, und gibt eine Reihe von binären Klassifikationstests für jedes Intervall aus.
+Dieses Python-Skript liest und zählt Klassen in zwei Ereignislisten im CSV-Format. Die Ergebnisse werden in separaten Tabellen für jeden Zählquerschnitt und jede Zählklasse ausgegeben.
 
-#### Abhängigkeiten für Python
+### referenzdaten_fehleruntersuchung.ipynb
 
-  * pandas
-  * numpy
-  * seaborn
-  * matplotlib
-  * re
-  * datetime
+Mit diesem Skript werden zwei Referenzzählungen verglichen und mögliche Abweichungen ermittelt, um potenzielle Fehler zu identifizieren.
 
+### referenzdaten_fehleranalyse.R
 
-#### Verwendung
+Dieses Skript liest die Ausgabedaten von `auswertung.ipynb`, berechnet die Fehler zwischen zwei Referenzzählungen und gibt die Ergebnisse in einer PDF-Tabelle aus.
 
-  1. Legen Sie die Pfade für die Groundtruth- und Evaluierungsdatensätze fest.
-  2. Passen Sie die Intervalleinstellungen nach Bedarf an.
-  3. Führen Sie das Skript aus, um die Daten zu verarbeiten und zu analysieren.
+### merge.R
 
-#### Funktionen
+Mit `merge.R` werden die generierten Tabellen zusammengeführt.
 
-  * Liest und verarbeitet Daten aus verschiedenen Quellen und Formaten.
-  * Filtert Daten nach Datumsbereich.
-  * Vergleicht und verschmilzt Daten aus Groundtruth- und Evaluierungsdatensätzen.
-  * Erzeugt binäre Klassifikationstests für festgelegte Intervalle.
-  * Exportiert Ergebnisse in CSV-Dateien.
+### plot.R
 
-### Ground Truth Event Classification
+Dieses Skript visualisiert die Daten aus `auswertung.ipynb`, indem es verschiedene Plots erstellt.
 
-Dieses R-Skript ver```markdown
-arbeitet Groundtruth-Ereignisdaten, berechnet die Sensitivität und Genauigkeit für verschiedene Objektklassen und erzeugt Diagramme für jedes Tor und jede Objektklasse. Es ist darauf ausgelegt, mit Daten zu arbeiten, die während bestimmter Zeitintervalle gesammelt wurden.
+## Python-Abhängigkeiten
 
-#### Voraussetzungen für R
-  * R (Version 3.6.0 oder höher)
-  * R-Pakete: `tidyverse`, `lubridate`
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* re
+* datetime
+
+## R-Voraussetzungen
+
+* R (Version 3.6.0 oder höher)
+* R-Pakete: `tidyverse`, `lubridate`
