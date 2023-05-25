@@ -1,6 +1,6 @@
 # Hauptseminararbeit: Genauigkeit automatisierter Zählungen des Fuß- und Radverkehrs
 
-Dieses Repository enthält Skripte und Daten für die Hauptseminararbeit zur Genauigkeit automatisierter Zählungen des Rad- und Fußverkehrs. Teile dieser Dokumentation wurden mithilfe von ChatGPT erstellt.
+Dieses Repository enthält Skripte und Daten für die Hauptseminararbeit zur Genauigkeit automatisierter Zählungen des Rad- und Fußverkehrs.
 
 ## Struktur des Repositorys
 
