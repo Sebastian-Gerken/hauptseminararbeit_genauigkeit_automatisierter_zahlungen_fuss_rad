@@ -1,5 +1,5 @@
 #Skript liest outputdaten von auswertung.ipynb ein
-#und 
+#und
 library(tidyverse)
 library(gridExtra)
 setwd("./auswertung_output")
