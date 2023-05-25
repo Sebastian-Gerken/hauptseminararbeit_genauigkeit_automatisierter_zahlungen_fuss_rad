@@ -263,14 +263,14 @@ for (class in classes){
                                         -ori.Zählung,
                                         -alt.Zählung)
   }
-  
+
   metasubset <- metasubset %>%
     mutate(across(where(is.numeric), ~format(., decimal.mark = ",")))
 
   pdf(paste0("stats_",class ,".pdf"), width = 7.6, height = 1.6)
   grid.table(metasubset, theme = custom_theme, rows = NULL)
   dev.off()
-  
+
 }
 
 metastats <- metastats %>%
@@ -298,10 +298,6 @@ meta_gouped <- metastats %>%
 
 
 
-#write_xlsx(metastats, "metastats.xlsx")
-
-
 pdf("metastats.pdf", width = 16, height = 6)
 grid.table(metastats)
 dev.off()
-
